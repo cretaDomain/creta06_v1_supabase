@@ -111,7 +111,7 @@
     "images",
     "video",
     "Text",
-    "Shapes",
+    "Icons",
     "Widgets",
     "video conference",
     "Comment"
@@ -635,5 +635,9 @@
   "AllMyDevices": "All my devices",
   "SelectedDevices": "Selected devices",
   "gotoPlaylist": "Go to playlist",
+  "RepeatEveryDayAtSameTime": "Repeat every day at the same time",
+  "OnSpecifiedDayAtSpecifiedTime": "On a specified day at a specified time",
+  "DoNotCloseTheWindowUntilTheUploadIsComplete": "Do not close the window until the upload is complete.",
+  "OtherOperationsMayBeSlowWhileUploading": "Other operations may be slow while uploading.",
   "end": "End"
 }

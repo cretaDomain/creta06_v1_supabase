@@ -111,7 +111,7 @@
         "画像",
         "動画",
         "テキスト",
-        "図形",
+        "アイコン",
         "ウィジェット",
         "ビデオ会議",
         "コメント"
@@ -640,5 +640,9 @@
     "AllMyDevices": "すべてのデバイス",
     "SelectedDevices": "選択されたデバイス",
     "gotoPlaylist": "プレイリストに移動",
+    "RepeatEveryDayAtSameTime": "毎日同じ時間に繰り返す",
+    "OnSpecifiedDayAtSpecifiedTime": "指定日、指定時間のみ",
+    "DoNotCloseTheWindowUntilTheUploadIsComplete": "アップロードが完了するまでウィンドウを閉じないでください。",
+    "OtherOperationsMayBeSlowWhileUploading": "アップロード中は他の操作が遅くなる場合があります。",
     "end": "End"
 }
