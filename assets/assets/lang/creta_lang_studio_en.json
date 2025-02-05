@@ -639,5 +639,6 @@
   "OnSpecifiedDayAtSpecifiedTime": "On a specified day at a specified time",
   "DoNotCloseTheWindowUntilTheUploadIsComplete": "Do not close the window until the upload is complete.",
   "OtherOperationsMayBeSlowWhileUploading": "Other operations may be slow while uploading.",
+  "createThumbnail": "Create thumbnail",
   "end": "End"
 }
