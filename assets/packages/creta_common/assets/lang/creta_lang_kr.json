@@ -112,9 +112,11 @@
   "fontNanum_Pen_Script": "나눔펜스크립트",
   "fontNoto_Sans_KR": "노토산스KR",
   "fontPretendard": "프리텐다드",
+  "fontHDHarmony": "현대하모니",
   "fontMacondo": "Macondo마콘도",
   "fontNoto_Sans_JP": "NotoSans일본어",
   "fontStringList": [
+    "현대하모니",
     "노토산스",
     "나눔명조",
     "유아",

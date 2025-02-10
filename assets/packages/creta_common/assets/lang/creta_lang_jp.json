@@ -112,9 +112,11 @@
     "fontNanum_Pen_Script": "Pen Script",
     "fontNoto_Sans_KR": "NotoSansKR",
     "fontPretendard": "Pretendard",
+    "fontHDHarmony": "HDHarmony",
     "fontMacondo": "Macondo",
     "fontNoto_Sans_JP": "NotoSansJP",
     "fontStringList": [
+        "HDHarmony",
         "NotoSans",
         "Myeongjo",
         "Jua",
