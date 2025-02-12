@@ -637,6 +637,7 @@
   "gotoPlaylist": "Go to playlist",
   "RepeatEveryDayAtSameTime": "Repeat every day at the same time",
   "OnSpecifiedDayAtSpecifiedTime": "On a specified day at a specified time",
+  "FileUploadFailed": "File upload failed",
   "DoNotCloseTheWindowUntilTheUploadIsComplete": "Do not close the window until the upload is complete.",
   "OtherOperationsMayBeSlowWhileUploading": "Other operations may be slow while uploading.",
   "createThumbnail": "Create thumbnail",

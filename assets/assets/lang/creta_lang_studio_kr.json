@@ -638,6 +638,7 @@
   "RepeatEveryDayAtSameTime": "매일 같은 시간에 반복 수행",
   "OnSpecifiedDayAtSpecifiedTime": "지정된 날짜와 시간에만 수행",
   "DoNotCloseTheWindowUntilTheUploadIsComplete": "업로드가 완료될 때까지 창을 닫지 마십시오.",
+  "FileUploadFailed": "파일 업로드에 실패하였습니다.",
   "OtherOperationsMayBeSlowWhileUploading": "업로드 중에는 다른 작업이 느릴 수 있습니다.",
   "createThumbnail": "썸네일 생성",
   "end": "End"
