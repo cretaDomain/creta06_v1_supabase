@@ -260,7 +260,8 @@
     "color": "色",
     "linkColor": "アイコン色",
     "linkIconSize": "アイコンサイズ",
-    "linkNameSize": "アイコン名サイズ",
+    "linkNameSize": "ピケットサイズ",
+    "IconOpacity": "アイコン透明度",
     "opacity": "透明度",
     "angle": "角度",
     "radius": "角",
@@ -402,7 +403,7 @@
         "medium": "Medium",
         "small": "Small"
     },
-    "shape": "形状",
+    "shape": "Icon 形状",
     "eventSend": "送信イベント",
     "eventReceived": "受信イベント",
     "showWhenEventReceived": "イベントを受信した時のみ表示",
@@ -439,7 +440,7 @@
     "linkControl": "リンク編集",
     "linkControlOn": "リンク移動モード",
     "linkControlOff": "リンク移動モード解除",
-    "linkClass": "リンク内容",
+    "linkComment": "リンクコメント",
     "musicMutedControl": "ミュート",
     "musicPlayerSize": "ミュージックサミズ機能",
     "imageFilterTypeList": [
@@ -621,7 +622,7 @@
     "applyTempateToCurrentPage": "現在のページにテンプレートを適用",
     "modifyTemplate": "テンプレートを修正",
     "infoUrl": "接続Webアドレス",
-    "showLinkName": "リンク名を表示",
+    "showLinkName": "ピケットを表示",
     "showLinkComment": "リンクコメントを表示",
     "showPageIndex": "ページ目次を表示",
     "showContentsIndex": "コンテンツの目次を表示",
@@ -646,5 +647,11 @@
     "DoNotCloseTheWindowUntilTheUploadIsComplete": "アップロードが完了するまでウィンドウを閉じないでください。",
     "OtherOperationsMayBeSlowWhileUploading": "アップロード中は他の操作が遅くなる場合があります。",
     "createThumbnail": "サムネイルを作成",
+    "padding": "余白",
+    "maxFontSize": "最大フォントサイズ",
+    "textColor": "テキスト色",
+    "bgColor": "背景色",
+    "outlineColor": "アウトライン色",
+    "linkName": "リンク名",
     "end": "End"
 }

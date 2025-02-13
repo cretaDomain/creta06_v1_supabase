@@ -260,7 +260,8 @@
   "color": "Color",
   "linkColor": "Icon color",
   "linkIconSize": "Icon size",
-  "linkNameSize": "Name size",
+  "linkNameSize": "Picket size",
+  "IconOpacity": "Icon transparency",
   "opacity": "Transparency",
   "angle": "Angle",
   "radius": "Corner",
@@ -402,7 +403,7 @@
     "Medium": "Medium",
     "small": "Small"
   },
-  "shape": "Shape",
+  "shape": "Icon Shape",
   "eventSend": "Outgoing event",
   "eventReceived": "Received event",
   "showWhenEventReceived": "Appears only when an event is received",
@@ -439,7 +440,7 @@
   "linkControl": "Edit link",
   "linkControlOn": "Link move mode",
   "linkControlOff": "Turn off link movement mode",
-  "linkClass": "Link content",
+  "linkComment": "Link comment",
   "musicMutedControl": "Mute",
   "musicPlayerSize": "Music samizdat feature",
   "imageFilterTypeList": [
@@ -616,7 +617,7 @@
   "applyTempateToCurrentPage": "Apply template to current page",
   "modifyTemplate": "Modify template",
   "infoUrl": "Web page URL",
-  "showLinkName": "Show name",
+  "showLinkName": "Show Picket",
   "showLinkComment": "Show comment",
   "showPageIndex": "Show page index",
   "showContentsIndex": "Show content index",
@@ -641,5 +642,11 @@
   "DoNotCloseTheWindowUntilTheUploadIsComplete": "Do not close the window until the upload is complete.",
   "OtherOperationsMayBeSlowWhileUploading": "Other operations may be slow while uploading.",
   "createThumbnail": "Create thumbnail",
+  "padding": "Padding",
+  "maxFontSize": "Maximum font size",
+  "textColor": "Text color",
+  "bgColor": "BG color",
+  "outlineColor": "Outline color",
+  "linkName": "Link name",
   "end": "End"
 }
