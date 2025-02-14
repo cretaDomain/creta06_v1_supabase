@@ -651,7 +651,13 @@
     "maxFontSize": "最大フォントサイズ",
     "textColor": "テキスト色",
     "bgColor": "背景色",
-    "outlineColor": "アウトライン色",
+    "borderColor": "境界線色",
+    "borderThick": "境界線太さ",
+    "picketLength": "ピケット長さ",
     "linkName": "リンク名",
+    "iconType": "アイコンタイプ",
+    "picketDirection": "方向",
+    "SaveCurrentSettingsAsMyStyle": "現在の設定を私のスタイルとして保存",
+    "useMyStyle": "私のスタイルを使用",
     "end": "End"
 }

@@ -646,7 +646,13 @@
   "maxFontSize": "Maximum font size",
   "textColor": "Text color",
   "bgColor": "BG color",
-  "outlineColor": "Outline color",
+  "borderColor": "border color",
+  "borderThick": "border thickness",
+  "picketLength": "Picket length",
   "linkName": "Link name",
+  "iconType": "Icon type",
+  "picketDirection": "Direction",
+  "SaveCurrentSettingsAsMyStyle": "Save current settings as my style",
+  "useMyStyle": "Use my style",
   "end": "End"
 }

@@ -646,7 +646,15 @@
   "maxFontSize": "최대 폰트 크기",
   "textColor": "텍스트 색상",
   "bgColor": "배경 색상",
-  "outlineColor": "외곽선 색상",
+  "borderColor": "테두리 색상",
+  "borderThick": "테두리 두께",
+  "picketLength": "피켓 길이",
   "linkName": "피켓 내용",
+  "iconType": "아이콘 종류",
+  "picketDirection": "피켓방향",
+  "SaveCurrentSettingsAsMyStyle1": "현재 설정을 스타일1로 저장",
+  "SaveCurrentSettingsAsMyStyle2": "현재 설정을 스타일2로 저장",
+  "SaveCurrentSettingsAsMyStyle3": "현재 설정을 스타일3로 저장",
+  "useMyStyle": "내 스타일 사용하기",
   "end": "End"
 }
