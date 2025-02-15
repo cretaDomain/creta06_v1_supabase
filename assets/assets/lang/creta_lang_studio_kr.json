@@ -656,5 +656,10 @@
   "SaveCurrentSettingsAsMyStyle2": "현재 설정을 스타일2로 저장",
   "SaveCurrentSettingsAsMyStyle3": "현재 설정을 스타일3로 저장",
   "useMyStyle": "내 스타일 사용하기",
+  "styleIsUndefinedYet": "스타일이 정의되어 있지 않습니다",
+  "ApplyStyle1": "스타일1 적용",
+  "ApplyStyle2": "스타일2 적용",
+  "ApplyStyle3": "스타일3 적용",
+  "styleSaved'": "스타일이 저장되었습니다",
   "end": "End"
 }
