@@ -121,5 +121,9 @@
   "noPermitionToCreateEnterprise": "新しいエンタープライズを作成する権限がありません。サービス提供者にお問い合わせください",
   "userEmail": "ユーザー ID(Email)",
   "dupCheckIDandNickName": "ID/名前重複チェック",
+  "onlyEnglishAndDigitAndSpecialChars": "英語、数字、特殊文字のみ使用できます。",
+  "teamEnglishName": "チーム英語名",
+  "onlyEnglishAndDigit": "英語、数字のみ使用できます。",
+  "deleteComplete": "削除が完了しました。",
   "end": "End"
 }

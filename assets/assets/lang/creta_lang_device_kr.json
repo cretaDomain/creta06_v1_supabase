@@ -122,5 +122,9 @@
     "initializeColumn": "컬럼 초기화",
     "noPermitionToCreateEnterprise": "새로운 엔터프라이즈를 만들 권한이 없습니다. 서비스 제공사에 문의하시기 바랍니다",
     "dupCheckIDandNickName": "ID/이름 중복체크",
+    "onlyEnglishAndDigitAndSpecialChars": "영문, 숫자, 특수문자만 사용할 수 있습니다.",
+    "onlyEnglishAndDigit": "영문, 숫자만 사용할 수 있습니다.",
+    "teamEnglishName": "팀 영문 이름",
+    "deleteComplete": "삭제가 완료되었습니다",
     "END": ""
 }

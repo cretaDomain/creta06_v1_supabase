@@ -121,5 +121,9 @@
   "noPermitionToCreateEnterprise": "You do not have permission to create a new enterprise. Please contact the service provider",
   "userEmail": "User ID(Email)",
   "dupCheckIDandNickName": "ID/Name DupCheck",
+  "onlyEnglishAndDigitAndSpecialChars": "Only English, numbers, and special characters can be used.",
+  "teamEnglishName": "Team English Name",
+  "onlyEnglishAndDigit": "Only English and numbers can be used.",
+  "deleteComplete": "Deletion is complete.",
   "end": "End"
 }
