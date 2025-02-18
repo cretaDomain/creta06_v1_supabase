@@ -292,6 +292,8 @@
   "angleTooltip": "45도 회전합니다",
   "cornerTooltip": "각각의 코너 값을 다르게 설정합니다",
   "fullscreenTooltip": "페이지에 꽉차게 합니다",
+  "horizontalFull": "가로로 꽉차게 합니다",
+  "verticalFull": "세로로 꽉차게 합니다",
   "transitionPage": "페이지 전환 효과",
   "effect": "배경효과",
   "contentFlipEffect": "콘텐츠 넘김 효과",

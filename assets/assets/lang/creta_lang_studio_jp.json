@@ -666,5 +666,7 @@
     "ApplyStyle2": "Style2を適用",
     "ApplyStyle3": "Style3を適用",
     "styleSaved'": "スタイルが保存されました。",
+    "horizontalFull": "横幅いっぱいに",
+    "verticalFull": "縦幅いっぱいに",
     "end": "End"
 }
