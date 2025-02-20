@@ -212,5 +212,7 @@
   "createNew": "Create New",
   "selectBookToAddPlaylist": "Select the Creta book to add to the playlist",
   "myPlaylist": "My Playlist",
+  "playListIsBeingUsedOnDevices": "You cannot delete the playlist because it is being used on the following devices\nRelease the playlist on your device first.",
+  "releasePlaylist": "You cannot delete the playlist because it is being used on the following devices\nRelease the playlist on your device first.",
   "endOfList": "End of List"
 }

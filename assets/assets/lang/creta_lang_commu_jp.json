@@ -213,5 +213,7 @@
     "selectBookToAddPlaylist": "追加するクレタブックを選択してください",
     "selectBookOrPlaylist": "放送するクレタブックまたはプレイリストを選択してください",
     "myPlaylist": "マイプレイリスト",
+    "playListIsBeingUsedOnDevices": "以下のデバイスでプレイリストを使用しているため削除できません。",
+    "releasePlaylist": "まず、デバイスからプレイリストを解放します。",
     "end": ""
 }

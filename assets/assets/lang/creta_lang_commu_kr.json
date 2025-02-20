@@ -213,5 +213,7 @@
   "selectBookToAddPlaylist": "재생목록에 추가할 크레타 북을 선택하세요",
   "selectBookOrPlaylist": "방송할 크레타 북 또는 재생목록을 선택하세요",
   "myPlaylist": "내 재생목록",
+  "playListIsBeingUsedOnDevices": "다음과 같은 디바이스에서 플레이리스트를 사용하고 있기 때문에 삭제할 수 없습니다.",
+  "releasePlaylist": "먼저 디바이스에서 플레이리스트를 해제하십시오.",
   "end": "끝"
 }
