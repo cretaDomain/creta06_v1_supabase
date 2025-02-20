@@ -294,7 +294,7 @@
     "fullscreenTooltip": "ページにいっぱいにします",
     "transitionPage": "ページ遷移効果",
     "effect": "背景効果",
-    "contentFlipEffect": "コンテンツ反転効果",
+    "contentFlipEffect": "画像切り替え効果",
     "iconOption": "アイコン選択",
     "googleMapSavedList": "保存済みリスト",
     "whenOpenPage": "表示される時",
@@ -668,5 +668,6 @@
     "styleSaved'": "スタイルが保存されました。",
     "horizontalFull": "横幅いっぱいに",
     "verticalFull": "縦幅いっぱいに",
+    "frameShape": "フレーム形状",
     "end": "End"
 }

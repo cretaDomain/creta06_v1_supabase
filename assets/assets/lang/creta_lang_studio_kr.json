@@ -296,7 +296,7 @@
   "verticalFull": "세로로 꽉차게 합니다",
   "transitionPage": "페이지 전환 효과",
   "effect": "배경효과",
-  "contentFlipEffect": "콘텐츠 넘김 효과",
+  "contentFlipEffect": "그림 전환 효과",
   "iconOption": "아이콘 선택",
   "googleMapSavedList": "저장돤 목록",
   "whenOpenPage": "나타날 때",
@@ -663,5 +663,6 @@
   "ApplyStyle2": "스타일2 적용",
   "ApplyStyle3": "스타일3 적용",
   "styleSaved'": "스타일이 저장되었습니다",
+  "frameShape": "프레임 모양",
   "end": "End"
 }

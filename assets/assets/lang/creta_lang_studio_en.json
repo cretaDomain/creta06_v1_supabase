@@ -294,7 +294,7 @@
   "fullscreenTooltip": "Fills the page",
   "transitionPage": "Page transition effect",
   "effect": "Background effect",
-  "contentFlipEffect": "Content flip effect",
+  "contentFlipEffect": "image transition effect",
   "iconOption": "Icon option",
   "googleMapSavedList": "Saved list",
   "whenOpenPage": "When it appears",
@@ -663,5 +663,6 @@
   "styleSaved'": "Style saved",
   "horizontalFull": "Horizontal full",
   "verticalFull": "Vertical full",
+  "frameShape": "Frame shape",
   "end": "End"
 }
