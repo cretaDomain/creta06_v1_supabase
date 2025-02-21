@@ -220,5 +220,6 @@
   "newPlaylistName": "New Playlist Name",
   "duplicateAPlaylistToCreateANewPlaylist": "Duplicate a playlist to create a new playlist",
   "copyCompleted": "Copy completed",
+  "name": "Name",
   "endOfList": "End of List"
 }
