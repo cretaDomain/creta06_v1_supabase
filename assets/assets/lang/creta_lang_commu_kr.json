@@ -215,5 +215,11 @@
   "myPlaylist": "내 재생목록",
   "playListIsBeingUsedOnDevices": "다음과 같은 디바이스에서 플레이리스트를 사용하고 있기 때문에 삭제할 수 없습니다.",
   "releasePlaylist": "먼저 디바이스에서 플레이리스트를 해제하십시오.",
+  "sharedPlaylist": "공유된 재생목록",
+  "isPublic": "공개여부",
+  "isCircle": "순환 재생",
+  "newPlaylistName": "새 플레이 리스트 이름",
+  "duplicateAPlaylistToCreateANewPlaylist": "플레이 리스트를 복제하여 새로운 플레이 리스트를 만듭니다.",
+  "copyCompleted": "복사가 완료되었습니다.",
   "end": "끝"
 }

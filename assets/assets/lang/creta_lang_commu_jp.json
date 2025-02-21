@@ -215,5 +215,11 @@
     "myPlaylist": "マイプレイリスト",
     "playListIsBeingUsedOnDevices": "以下のデバイスでプレイリストを使用しているため削除できません。",
     "releasePlaylist": "まず、デバイスからプレイリストを解放します。",
+    "sharedPlaylist": "共有プレイリスト",
+    "isPublic": "公開するかどうか",
+    "isCircle": "自動循環かどうか",
+    "newPlaylistName": "新しいプレイリスト名",
+    "duplicateAPlaylistToCreateANewPlaylist": "新しいプレイリストを作成するには、プレイリストを複製します。",
+    "copyCompleted": "コピーが完了しました",
     "end": ""
 }

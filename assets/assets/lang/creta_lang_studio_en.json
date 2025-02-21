@@ -665,5 +665,6 @@
   "verticalFull": "Vertical full",
   "frameShape": "Frame shape",
   "insertContents": "Insert content",
+  "AutomaticallyReleasesAndDeletesPlaylists": "Automatically releases and deletes playlists",
   "end": "End"
 }

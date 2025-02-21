@@ -214,5 +214,11 @@
   "myPlaylist": "My Playlist",
   "playListIsBeingUsedOnDevices": "You cannot delete the playlist because it is being used on the following devices\nRelease the playlist on your device first.",
   "releasePlaylist": "You cannot delete the playlist because it is being used on the following devices\nRelease the playlist on your device first.",
+  "sharedPlaylist": "Shared Playlist",
+  "isPublic": "For Public",
+  "isCircle": "Automatic circulation",
+  "newPlaylistName": "New Playlist Name",
+  "duplicateAPlaylistToCreateANewPlaylist": "Duplicate a playlist to create a new playlist",
+  "copyCompleted": "Copy completed",
   "endOfList": "End of List"
 }
