@@ -666,5 +666,6 @@
   "frameShape": "Frame shape",
   "insertContents": "Insert content",
   "AutomaticallyReleasesAndDeletesPlaylists": "Automatically releases and deletes playlists",
+  "publishedImmediately": "Published immediately",
   "end": "End"
 }

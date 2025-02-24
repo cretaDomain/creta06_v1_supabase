@@ -666,5 +666,6 @@
   "frameShape": "프레임 모양",
   "insertContents": "콘텐츠 삽입",
   "AutomaticallyReleasesAndDeletesPlaylists": "플레이리스트를 자동 해제 후 삭제",
+  "publishedImmediately": "즉시 발행",
   "end": "End"
 }

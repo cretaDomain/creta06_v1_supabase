@@ -671,5 +671,6 @@
     "frameShape": "フレーム形状",
     "insertContents": "コンテンツ挿入",
     "AutomaticallyReleasesAndDeletesPlaylists": "プレイリストを自動的に解除して削除します。",
+    "publishedImmediately": "すぐに発行",
     "end": "End"
 }
