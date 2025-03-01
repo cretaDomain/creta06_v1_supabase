@@ -97,6 +97,7 @@
   "chooseEnterprise": "スーパーアドミンの現在選択されているエンタープライズはありません。\n必ず最初に使用するエンタープライズをマウスでクリックして選択してください。",
   "teamManage": "チーム管理",
   "teamDesc": "さんのクレタチーム情報を管理します。",
+  "userDesc": "さんのクレタユーザー情報を管理します。",
   "inputTeamInfo": "作成するチーム情報を入力してください",
   "NewTeamCreated": "次のように新しいチームが作成されました。",
   "teamDetail": "チーム詳細",
@@ -125,5 +126,11 @@
   "teamEnglishName": "チーム英語名",
   "onlyEnglishAndDigit": "英語、数字のみ使用できます。",
   "deleteComplete": "削除が完了しました。",
+  "deletePermanently": "完全削除",
+  "deletePermanentlyConfirm": "本当に完全に削除しますか？",
+  "restore": "復元",
+  "restoreComplete": "復元が完了しました。",
+  "dataDuration": "データ保持期間: ",
+  "automaticallyDeletedAfterwards": "日以降自動的に削除されます。",
   "end": "End"
 }

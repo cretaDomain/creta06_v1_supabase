@@ -63,7 +63,7 @@
         "リンク設定": "linkTab"
     },
     "textMenuTabBar": {
-        "テキスト追加": "add_text",
+        "スタイルの選択": "add_text",
         "ワードパッド": "word_pad",
         "特殊文字": "special_char"
     },
@@ -178,9 +178,11 @@
     "dailyQuote": "今日の名言",
     "dailyWord": "今日の\n単語",
     "myCretaBook": "私のクレタ帳",
+    "myPublishedCretaBook": "私の発行されたクレタ帳",
     "sharedCretaBook": "共有クレタブック",
     "teamCretaBook": "チームブック",
     "trashCan": "ゴミ箱",
+    "trashCanDesc": "消去されたデータを回復できます",
     "myCretaBookDesc": "私のクレタブックです",
     "sharedCretaBookDesc": "共有されたクレタブックです",
     "teamCretaBookDesc": "チームのクレタブックです",
@@ -671,6 +673,10 @@
     "frameShape": "フレーム形状",
     "insertContents": "コンテンツ挿入",
     "AutomaticallyReleasesAndDeletesPlaylists": "プレイリストを自動的に解除して削除します。",
+    "AutomaticallyReleasesAndDeletesBook": "クレタブックを自動解除後に削除",
     "publishedImmediately": "すぐに発行",
+    "picketProperty": "ピケットの属性",
+    "saveCurrentSettingsAsMyTextStyle": "現在の設定をスタイルとして保存",
+    "myTextStyle": "私のスタイル",
     "end": "End"
 }

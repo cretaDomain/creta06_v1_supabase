@@ -97,6 +97,7 @@
     "chooseEnterprise": "슈퍼 어드민의 현재 선택된 엔터프라이즈가 없습니다.\n 반드시 먼저 사용할 엔터프라이즈를 마우스로 클릭하여 선택하세요",
     "teamManage": "팀 관리",
     "teamDesc": "님의 크레타 팀 정보를 관리합니다.",
+    "userDesc": "님의 크레타 유저 정보를 관리합니다.",
     "inputTeamInfo": "생성할 팀 정보를 입력하세요.",
     "NewTeamCreated": "다음과 같이 새로운 팀이 생성되었습니다.",
     "teamDetail": "팀 상세화면",
@@ -126,5 +127,11 @@
     "onlyEnglishAndDigit": "영문, 숫자만 사용할 수 있습니다.",
     "teamEnglishName": "팀 영문 이름",
     "deleteComplete": "삭제가 완료되었습니다",
+    "deletePermanently": "영구히 삭제",
+    "deletePermanentlyConfirm": "영구히 삭제되면 다시 복구할 수 없습니다. 정말로 삭제하시겠습니까 ?",
+    "restore": "복구",
+    "restoreComplete": "복구가 완료되었습니다",
+    "dataDuration": "데이터 보존 기간: ",
+    "automaticallyDeletedAfterwards": "일 이후에 자동으로 삭제됩니다",
     "END": ""
 }

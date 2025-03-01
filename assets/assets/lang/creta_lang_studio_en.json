@@ -63,7 +63,7 @@
     "Link Setting": "linkTab"
   },
   "textMenuTabBar": {
-    "Add Text": "add_text",
+    "Choose a style": "add_text",
     "Wordpad": "word_pad",
     "Special Characters": "special_char"
   },
@@ -178,9 +178,11 @@
   "dailyQuote": "Today's\n quote",
   "dailyWord": "Word of the day",
   "myCretaBook": "My Creta Book",
+  "myPublishedCretaBook": "My published Creta Book",
   "sharedCretaBook": "Shared Creta Book",
   "teamCretaBook": "Team book",
   "trashCan": "Trash Can",
+  "trashCanDesc": "Erased data can be recovered",
   "myCretaBookDesc": "This is your Creta book",
   "sharedCretaBookDesc": " This is your shared CretaBook",
   "teamCretaBookDesc": " This is your team's Creta book",
@@ -665,7 +667,11 @@
   "verticalFull": "Vertical full",
   "frameShape": "Frame shape",
   "insertContents": "Insert content",
-  "AutomaticallyReleasesAndDeletesPlaylists": "Automatically releases and deletes playlists",
+  "AutomaticallyReleasesAndDeletesPlaylists": "Automatically releases and deletes playlist",
   "publishedImmediately": "Published immediately",
+  "AutomaticallyReleasesAndDeletesBook": "Automatically releases and deletes book",
+  "picketProperty": "Picket property",
+  "saveCurrentSettingsAsMyTextStyle": "Save current as my text style",
+  "myTextStyle": "My text style",
   "end": "End"
 }

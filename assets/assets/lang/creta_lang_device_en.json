@@ -97,6 +97,7 @@
   "chooseEnterprise": "There is no currently selected enterprise in Super Admin.\n Be sure to select the enterprise you want to use first by clicking it with the mouse.",
   "teamManage": "Team Management",
   "teamDesc": "Manage your team information",
+  "userDesc": "Manage your user information",
   "inputTeamInfo": "Enter the team information to create",
   "NewTeamCreated": "A new team has been created as follows",
   "teamDetail": "Team detail",
@@ -125,5 +126,11 @@
   "teamEnglishName": "Team English Name",
   "onlyEnglishAndDigit": "Only English and numbers can be used.",
   "deleteComplete": "Deletion is complete.",
+  "deletePermanently": "Delete Permanently",
+  "deletePermanentlyConfirm": "Are you sure you want to delete it permanently?",
+  "restore": "Restore",
+  "restoreComplete": "Restoration is complete.",
+  "dataDuration": "Data retention period: ",
+  "automaticallyDeletedAfterwards": " day after,It will be automatically deleted.",
   "end": "End"
 }
