@@ -673,5 +673,9 @@
   "picketProperty": "피켓 속성",
   "saveCurrentSettingsAsMyTextStyle": "현재 설정을 내 텍스트 스타일로 저장",
   "myTextStyle": "내 텍스트 스타일",
+  "deleteMyTextStyle": "내 텍스트 스타일 삭제",
+  "yourStyleHasBeenSaved": "스타일이 저장되었습니다",
+  "inputStyleName": "스타일 이름을 입력하세요",
+  "selectText": "먼저 스타일을 적용할 텍스트 박스를 선택해 주세요 ",
   "end": "End"
 }

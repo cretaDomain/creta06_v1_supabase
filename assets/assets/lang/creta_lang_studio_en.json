@@ -673,5 +673,9 @@
   "picketProperty": "Picket property",
   "saveCurrentSettingsAsMyTextStyle": "Save current as my text style",
   "myTextStyle": "My text style",
+  "deleteMyTextStyle": "Delete my text style",
+  "yourStyleHasBeenSaved": "Your style has been saved",
+  "inputStyleName": "Please enter a style name",
+  "selectText": "First, select the text box you want to apply the style to.",
   "end": "End"
 }

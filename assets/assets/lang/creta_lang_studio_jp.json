@@ -678,5 +678,9 @@
     "picketProperty": "ピケットの属性",
     "saveCurrentSettingsAsMyTextStyle": "現在の設定をスタイルとして保存",
     "myTextStyle": "私のスタイル",
+    "deleteMyTextStyle": "私のスタイルを削除",
+    "yourStyleHasBeenSaved": "スタイルが保存されました。",
+    "inputStyleName": "スタイル名を入力してください",
+    "selectText": "まず、スタイルを適用するテキストボックスを選択してください",
     "end": "End"
 }
