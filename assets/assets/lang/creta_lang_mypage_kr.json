@@ -153,6 +153,20 @@
     "notRegisteredMember" : "아직 회원 가입되지 않은 이메일입니다. 회원 가입을 한 사람만 팀원이 될 수 있습니다.",
     "memberLimitExceed" : "팀원은 4명까지만 추가할 수 있습니다.  더 이상 추가할 수 없습니다.",
 
+    "confirmOfDeletingAccountInfo" : "계정을 탈퇴하시겠습니까?",
+    "agreementOfDeletingAccountInfo" : "계정 삭제에 동의합니다. (필수)",
+    "agreementOfDeletingChannelTeamInfo" : "계정의 채널 및 팀 정보 삭제에 동의합니다. (필수)",
+    "agreementOfDeletingContentsInfo" : "계정에 저장된 콘텐츠 삭제에 동의합니다. (필수)",
+    "checkRequirements" : "필수 사항을 확인하시기 바랍니다.",
+
+    "processingAccountDeleting" : "계정 탈퇴를 처리중입니다.",
+    "dontclosewindow" : "이 창을 닫지 마세요.",
+
+    "removeAccountCompleted" : "계정 탈퇴가 완료되었습니다.",
+    "returnToStartPage" : "처음 화면으로 이동합니다.",
+
+    "OK2" : "확인",
+    "cancel" : "취소",
 
     "end"  :  "끝"
   }

@@ -153,7 +153,20 @@
     "notRegisteredMember" : "まだ会員登録されていないメールアドレスです。会員登録をした人だけがチームメンバーになれます。",
     "memberLimitExceed" : "チームメンバーは4名までしか追加できません。これ以上追加できません。",
 
+    "confirmOfDeletingAccountInfo" : "アカウントを退会しますか？",
+    "agreementOfDeletingAccountInfo" : "アカウントの削除に同意します。 (必須)",
+    "agreementOfDeletingChannelTeamInfo" : "アカウントのチャンネルとチーム情報の削除に同意します。 (必須)",
+    "agreementOfDeletingContentsInfo" : "カウントに保存されているコンテンツの削除に同意します。 (必須)",
+    "checkRequirements" : "必須事項をご確認ください。",
 
+    "processingAccountDeleting" : "アカウントの退会を処理中です。",
+    "dontclosewindow" : "このウィンドウを閉じないでください。",
+
+    "removeAccountCompleted" : "アカウントの退会が完了しました。",
+    "returnToStartPage" : "ホーム画面に移動します。",
+
+    "OK2" : "確認",
+    "cancel" : "キャンセル",
 
     "end" : ""
 }

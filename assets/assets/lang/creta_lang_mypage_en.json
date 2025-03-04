@@ -193,5 +193,20 @@
     "notRegisteredMember" : "This is an email address that has not yet been registered. Only those who have registered can become team members.",
     "memberLimitExceed" : "Only up to 4 team members can be added. You cannot add more than this.",
 
-      "endOfList": "End of List"
+    "confirmOfDeletingAccountInfo" : "Are you sure you want to delete your account?",
+    "agreementOfDeletingAccountInfo" : "I agree to delete my account. (Required)",
+    "agreementOfDeletingChannelTeamInfo" : "I agree to delete channel and team information from my account. (Required)",
+    "agreementOfDeletingContentsInfo" : "I agree to delete contents stored from my account. (Required)",
+    "checkRequirements" : "Please check the required information.",
+
+    "processingAccountDeleting" : "In processing the deletion of your account.",
+    "dontclosewindow" : "Do not close this window.",
+
+    "removeAccountCompleted" : "Your account has been deleted.",
+    "returnToStartPage" : "Go to the home screen.",
+
+    "OK2" : "OK",
+    "cancel" : "Cancel",
+
+    "endOfList": "End of List"
 }
