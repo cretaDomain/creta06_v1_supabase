@@ -366,7 +366,7 @@
   "flip": "좌우 반전",
   "speed": "속도",
   "transitionSpeed": "진행 시간(초)",
-  "delay": "딜레이",
+  "delay": "지연시간",
   "border": "테두리",
   "shadow": "그림자",
   "borderWidth": "두께",

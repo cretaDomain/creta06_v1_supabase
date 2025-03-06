@@ -121,7 +121,7 @@
   "initializeColumn": "Init Column",
   "noPermitionToCreateEnterprise": "You do not have permission to create a new enterprise. Please contact the service provider",
   "userEmail": "User ID(Email)",
-  "dupCheckIDandNickName": "ID/Name DupCheck",
+  "dupCheckID": "ID DupCheck",
   "onlyEnglishAndDigitAndSpecialChars": "Only English, numbers, and special characters can be used.",
   "teamEnglishName": "Team English Name",
   "onlyEnglishAndDigit": "Only English and numbers can be used.",
