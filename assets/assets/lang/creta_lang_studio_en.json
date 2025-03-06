@@ -677,5 +677,6 @@
   "yourStyleHasBeenSaved": "Your style has been saved",
   "inputStyleName": "Please enter a style name",
   "selectText": "First, select the text box you want to apply the style to.",
+  "automaticFontSizeCantBeUsedWhenUsingTextAnimation": "Automatic font size can't be used when using text animation.",
   "end": "End"
 }

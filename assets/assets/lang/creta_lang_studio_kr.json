@@ -677,5 +677,6 @@
   "yourStyleHasBeenSaved": "스타일이 저장되었습니다",
   "inputStyleName": "스타일 이름을 입력하세요",
   "selectText": "먼저 스타일을 적용할 텍스트 박스를 선택해 주세요 ",
+  "automaticFontSizeCantBeUsedWhenUsingTextAnimation": "텍스트 애니메이션을 사용하고 있는 경우에는 자동 폰트 사이즈 조절 기능을 사용할 수 없습니다.",
   "end": "End"
 }

@@ -682,5 +682,6 @@
     "yourStyleHasBeenSaved": "スタイルが保存されました。",
     "inputStyleName": "スタイル名を入力してください",
     "selectText": "まず、スタイルを適用するテキストボックスを選択してください",
+    "automaticFontSizeCantBeUsedWhenUsingTextAnimation": "テキストアニメーションを使用する場合、自動フォントサイズは使用できません。",
     "end": "End"
 }
