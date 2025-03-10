@@ -67,6 +67,9 @@
     "워드 패드": "word_pad",
     "특수 문자": "special_char"
   },
+  "linkMenuTabBar": {
+    "스타일 선택": "link_style"
+  },
   "imageMenuTabBar": {
     "이미지": "image",
     "가져오기": "upload_image",
@@ -104,15 +107,15 @@
     "기술": "technology"
   },
   "menuStick": [
-    "템플릿",
     "페이지",
+    "템플릿",
     "프레임",
-    "보관함",
-    "이미지",
-    "동영상",
     "텍스트",
-    "아이콘",
+    "스티커",
     "위젯",
+    "보관함",
+    "링크",
+    "AI",
     "화상회의",
     "코멘트"
   ],
@@ -655,7 +658,7 @@
   "picketLength": "피켓 길이",
   "linkName": "피켓 내용",
   "iconType": "아이콘 종류",
-  "picketDirection": "피켓방향",
+  "picketDirection": "피켓유형",
   "SaveCurrentSettingsAsMyStyle1": "현재 설정을 스타일1로 저장",
   "SaveCurrentSettingsAsMyStyle2": "현재 설정을 스타일2로 저장",
   "SaveCurrentSettingsAsMyStyle3": "현재 설정을 스타일3로 저장",
@@ -678,5 +681,11 @@
   "inputStyleName": "스타일 이름을 입력하세요",
   "selectText": "먼저 스타일을 적용할 텍스트 박스를 선택해 주세요 ",
   "automaticFontSizeCantBeUsedWhenUsingTextAnimation": "텍스트 애니메이션을 사용하고 있는 경우에는 자동 폰트 사이즈 조절 기능을 사용할 수 없습니다.",
+  "deleteMyStyle": "내 스타일 삭제",
+  "selectLink": "먼저 스타일을 적용할 링크를를 선택해 주세요 ",
+  "saveCurrentSettingsAsMyStyle": "현재 설정을 내 스타일로 저장",
+  "myStyle": "내 스타일",
+  "displayTextOnlyWithoutIcons": "아이콘 없이 글자만 표시",
+  "selectFrame": "먼저 스타일을 적용할 프레임을 선택해 주세요 ",
   "end": "End"
 }

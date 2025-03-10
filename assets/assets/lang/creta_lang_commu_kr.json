@@ -226,5 +226,8 @@
   "duplicateAPlaylistToCreateANewPlaylist": "플레이 리스트를 복제하여 새로운 플레이 리스트를 만듭니다.",
   "copyCompleted": "복사가 완료되었습니다.",
   "name": "이름",
+  "emailBeforeRemoved": "이전에 탈퇴한 이메일입니다.",
+  "errorOnRemovingAccount1": "계정 삭제중 에러가 발생하였습니다.",
+  "errorOnRemovingAccount2": "관리자에 문의하세요.",
   "end": "끝"
 }

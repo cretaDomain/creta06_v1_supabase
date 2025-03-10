@@ -67,6 +67,9 @@
     "Wordpad": "word_pad",
     "Special Characters": "special_char"
   },
+  "linkMenuTabBar": {
+    "Choose a style": "link_style"
+  },
   "imageMenuTabBar": {
     "Image": "image",
     "Import": "upload_image",
@@ -104,17 +107,17 @@
     "Technology": "technology"
   },
   "menuStick": [
-    "Templates",
     "page",
+    "templates",
     "frames",
-    "Archive",
-    "images",
-    "video",
-    "Text",
-    "Icons",
-    "Widgets",
-    "video conference",
-    "Comment"
+    "text",
+    "icons",
+    "widgets",
+    "archive",
+    "link",
+    "AI",
+    "conference",
+    "comment"
   ],
   "firstCurrency": [
     "USD",
@@ -653,7 +656,7 @@
   "picketLength": "Picket length",
   "linkName": "Link name",
   "iconType": "Icon type",
-  "picketDirection": "Direction",
+  "picketDirection": "Picket type",
   "SaveCurrentSettingsAsMyStyle1": "Save current as style1",
   "SaveCurrentSettingsAsMyStyle2": "Save current as style2",
   "SaveCurrentSettingsAsMyStyle3": "Save current as style3",
@@ -678,5 +681,9 @@
   "inputStyleName": "Please enter a style name",
   "selectText": "First, select the text box you want to apply the style to.",
   "automaticFontSizeCantBeUsedWhenUsingTextAnimation": "Automatic font size can't be used when using text animation.",
+  "saveCurrentSettingsAsMyStyle": "Save current as my style",
+  "myStyle": "My style",
+  "displayTextOnlyWithoutIcons": "display text only without icons",
+  "selectFrame": "Please select the frame to which you want to apply the style first",
   "end": "End"
 }

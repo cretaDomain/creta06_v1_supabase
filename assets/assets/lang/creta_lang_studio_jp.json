@@ -67,6 +67,9 @@
         "ワードパッド": "word_pad",
         "特殊文字": "special_char"
     },
+    "linkMenuTabBar": {
+        "スタイルの選択": "link_style"
+    },
     "imageMenuTabBar": {
         "image": "image",
         "インポート": "upload_image",
@@ -104,15 +107,15 @@
         "技術": "technology"
     },
     "menuStick": [
-        "テンプレート",
         "ページ",
+        "テンプレート",
         "フレーム",
-        "アーカイブ",
-        "画像",
-        "動画",
         "テキスト",
         "アイコン",
         "ウィジェット",
+        "アーカイブ",
+        "リンク",
+        "AI",
         "ビデオ会議",
         "コメント"
     ],
@@ -658,7 +661,7 @@
     "picketLength": "ピケット長さ",
     "linkName": "リンク名",
     "iconType": "アイコンタイプ",
-    "picketDirection": "方向",
+    "picketDirection": "タイプ",
     "SaveCurrentSettingsAsMyStyle1": "現在の設定をStyle1て保存",
     "SaveCurrentSettingsAsMyStyle2": "現在の設定をStyle2て保存",
     "SaveCurrentSettingsAsMyStyle3": "現在の設定をStyle3て保存",
@@ -683,5 +686,9 @@
     "inputStyleName": "スタイル名を入力してください",
     "selectText": "まず、スタイルを適用するテキストボックスを選択してください",
     "automaticFontSizeCantBeUsedWhenUsingTextAnimation": "テキストアニメーションを使用する場合、自動フォントサイズは使用できません。",
+    "saveCurrentSettingsAsMyStyle": "現在の設定をスタイルとして保存",
+    "myStyle": "私のスタイル",
+    "displayTextOnlyWithoutIcons": "アイコンなしで表示",
+    "selectFrame": "まずスタイルを適用するフレームを選択してください",
     "end": "End"
 }

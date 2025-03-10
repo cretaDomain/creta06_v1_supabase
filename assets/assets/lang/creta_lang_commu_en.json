@@ -225,5 +225,6 @@
   "duplicateAPlaylistToCreateANewPlaylist": "Duplicate a playlist to create a new playlist",
   "copyCompleted": "Copy completed",
   "name": "Name",
+  "emailBeforeRemoved": "This email address  has been unregistered before.",
   "endOfList": "End of List"
 }

@@ -226,5 +226,6 @@
     "duplicateAPlaylistToCreateANewPlaylist": "新しいプレイリストを作成するには、プレイリストを複製します。",
     "copyCompleted": "コピーが完了しました",
     "name": "名前",
+    "emailBeforeRemoved": "以前に退会したメールアドレスです。",
     "end": ""
 }
