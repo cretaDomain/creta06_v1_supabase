@@ -691,6 +691,6 @@
   "applyStyleToNewText": "Create a new text",
   "applyStyleSelectedText": "Apply to the currently selected text",
   "applyStyleToNewLink": "Create a new link",
-  "applyStyleSelectedFLink": "Apply to the currently selected link",
+  "applyStyleSelectedLink": "Apply to the currently selected link",
   "end": "End"
 }

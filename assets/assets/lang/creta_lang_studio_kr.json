@@ -693,6 +693,6 @@
   "applyStyleToNewText": "새 텍스트 만들기",
   "applyStyleSelectedText": "현재 선택된 텍스트에 적용",
   "applyStyleToNewLink": "새 링크 만들기",
-  "applyStyleSelectedFLink": "현재 선택된 링크에 적용",
+  "applyStyleSelectedLink": "현재 선택된 링크에 적용",
   "end": "End"
 }
