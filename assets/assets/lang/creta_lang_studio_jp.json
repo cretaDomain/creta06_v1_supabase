@@ -108,13 +108,13 @@
     },
     "menuStick": [
         "ページ",
-        "テンプレート",
-        "フレーム",
-        "テキスト",
+        "ページTemplate",
+        "フレームStyle",
+        "テキストStyle",
+        "リンクStyle",
         "アイコン",
         "ウィジェット",
         "アーカイブ",
-        "リンク",
         "AI",
         "ビデオ会議",
         "コメント"
@@ -690,5 +690,12 @@
     "myStyle": "私のスタイル",
     "displayTextOnlyWithoutIcons": "アイコンなしで表示",
     "selectFrame": "まずスタイルを適用するフレームを選択してください",
+    "saveCurrentPageAsMyTemplate": "現在のページをテンプレートとして保存",
+    "applyStyleToNewFrame": "新しいフレームに適用",
+    "applyStyleSelectedFrame": "現在選択されているフレームに適用",
+    "applyStyleToNewText": "新しいテキストを作成",
+    "applyStyleSelectedText": "現在選択されているテキストに適用",
+    "applyStyleToNewLink": "新しいリンクを作成",
+    "applyStyleSelectedFLink": "現在選択されているリンクに適用",
     "end": "End"
 }

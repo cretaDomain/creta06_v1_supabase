@@ -108,13 +108,13 @@
   },
   "menuStick": [
     "page",
-    "templates",
-    "frames",
-    "text",
+    "page template",
+    "fav. frame",
+    "fav. text",
+    "fav. link",
     "icons",
     "widgets",
     "archive",
-    "link",
     "AI",
     "conference",
     "comment"
@@ -685,5 +685,12 @@
   "myStyle": "My style",
   "displayTextOnlyWithoutIcons": "display text only without icons",
   "selectFrame": "Please select the frame to which you want to apply the style first",
+  "saveCurrentPageAsMyTemplate": "Save current page as my template",
+  "applyStyleToNewFrame": "Create a new frame",
+  "applyStyleSelectedFrame": "Apply to the currently selected frame",
+  "applyStyleToNewText": "Create a new text",
+  "applyStyleSelectedText": "Apply to the currently selected text",
+  "applyStyleToNewLink": "Create a new link",
+  "applyStyleSelectedFLink": "Apply to the currently selected link",
   "end": "End"
 }

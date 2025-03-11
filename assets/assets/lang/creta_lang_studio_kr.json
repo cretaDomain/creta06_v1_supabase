@@ -108,13 +108,13 @@
   },
   "menuStick": [
     "페이지",
-    "템플릿",
-    "프레임",
-    "텍스트",
+    "페이지템플릿",
+    "프레임스타일",
+    "텍스트스타일",
+    "링크스타일",
     "스티커",
     "위젯",
     "보관함",
-    "링크",
     "AI",
     "화상회의",
     "코멘트"
@@ -687,5 +687,12 @@
   "myStyle": "내 스타일",
   "displayTextOnlyWithoutIcons": "아이콘 없이 글자만 표시",
   "selectFrame": "먼저 스타일을 적용할 프레임을 선택해 주세요 ",
+  "saveCurrentPageAsMyTemplate": "현재 페이지를를 나의 템플릿으로 저장",
+  "applyStyleToNewFrame": "새 프레임 만들기",
+  "applyStyleSelectedFrame": "현재 선택된 프레임에 적용",
+  "applyStyleToNewText": "새 텍스트 만들기",
+  "applyStyleSelectedText": "현재 선택된 텍스트에 적용",
+  "applyStyleToNewLink": "새 링크 만들기",
+  "applyStyleSelectedFLink": "현재 선택된 링크에 적용",
   "end": "End"
 }
