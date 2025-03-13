@@ -132,5 +132,6 @@
   "restoreComplete": "復元が完了しました。",
   "dataDuration": "データ保持期間: ",
   "automaticallyDeletedAfterwards": "日以降自動的に削除されます。",
+  "emailRemovedLately": "最近削除されたidです。 まずユーザーのゴミ箱に残っている該当emailを完全に削除してからもう一度お試しください。",
   "end": "End"
 }

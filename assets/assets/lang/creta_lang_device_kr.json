@@ -133,5 +133,6 @@
     "restoreComplete": "복구가 완료되었습니다",
     "dataDuration": "데이터 보존 기간: ",
     "automaticallyDeletedAfterwards": "일 이후에 자동으로 삭제됩니다",
+    "emailRemovedLately": "최근 삭제된 id입니다.  먼저 user 휴지통에 남아있는 해당 email 을 영구히 삭제한 뒤 다시 시도하십시오.",
     "END": ""
 }

@@ -692,5 +692,6 @@
   "applyStyleSelectedText": "Apply to the currently selected text",
   "applyStyleToNewLink": "Create a new link",
   "applyStyleSelectedLink": "Apply to the currently selected link",
+  "borderRadius": "Border radius",
   "end": "End"
 }

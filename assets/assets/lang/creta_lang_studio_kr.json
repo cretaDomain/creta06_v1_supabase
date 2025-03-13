@@ -694,5 +694,6 @@
   "applyStyleSelectedText": "현재 선택된 텍스트에 적용",
   "applyStyleToNewLink": "새 링크 만들기",
   "applyStyleSelectedLink": "현재 선택된 링크에 적용",
+  "borderRadius": "모서리 둥글기",
   "end": "End"
 }

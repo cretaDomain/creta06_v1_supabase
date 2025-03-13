@@ -697,5 +697,6 @@
     "applyStyleSelectedText": "現在選択されているテキストに適用",
     "applyStyleToNewLink": "新しいリンクを作成",
     "applyStyleSelectedLink": "現在選択されているリンクに適用",
+    "borderRadius": "角丸",
     "end": "End"
 }
