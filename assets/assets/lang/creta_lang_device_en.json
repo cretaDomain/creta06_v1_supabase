@@ -131,7 +131,8 @@
   "restore": "Restore",
   "restoreComplete": "Restoration is complete.",
   "dataDuration": "Data retention period: ",
-  "automaticallyDeletedAfterwards": " day after,It will be automatically deleted.",
+  "automaticallyDeletedAfterwards": " days after.",
+  "trashCanDataWillBe": "The data in the trash can will be automatically deleted",
   "emailRemovedLately": "This is a recently deleted ID. First, permanently delete the email in question from the user trash and try again.",
   "end": "End"
 }

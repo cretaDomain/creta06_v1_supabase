@@ -698,5 +698,6 @@
     "applyStyleToNewLink": "新しいリンクを作成",
     "applyStyleSelectedLink": "現在選択されているリンクに適用",
     "borderRadius": "角丸",
+    "convertingPPT2Images": "PPTを画像に変換中",
     "end": "End"
 }
