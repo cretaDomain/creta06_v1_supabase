@@ -703,5 +703,7 @@
   "borderRadius": "Border radius",
   "convertingPPT2Images": "Converting PPT to images",
   "appearInAnimation": "Appear in animation",
+  "textOnlyRightofIcons": "Text only to the right of the icon",
+  "textOnlyLeftofIcons": "Text only to the left of the icon",
   "end": "End"
 }
