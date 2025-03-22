@@ -695,7 +695,7 @@
     "saveCurrentSettingsAsMyStyle": "現在の設定をスタイルとして保存",
     "myStyle": "私のスタイル",
     "displayTextOnlyWithoutIcons": "アイコンなしで表示",
-    "selectFrame": "まずスタイルを適用するフレームを選択してください",
+    "selectFrame": "まず適用するフレームを選択してください",
     "saveCurrentPageAsMyTemplate": "現在のページをテンプレートとして保存",
     "saveCurrentPageAsMyWelcomeBoard": "現在のページをウェルカムボードとして保存",
     "saveCurrentPageAsMyBoard": "現在のページをボードとして保存",
@@ -710,5 +710,11 @@
     "appearInAnimation": "アニメーションで表示",
     "textOnlyRightofIcons": "アイコン右側に文字のみ表示",
     "textOnlyLeftofIcons": "アイコン左側に文字のみ表示",
+    "changeName": "名前変更",
+    "insertItToSelectedFrame": "選択されたフレームに挿入",
+    "insertItoToNewFrame": "新しいフレームに挿入",
+    "cantInsert": "現在選択されているフレームは画像や動画を挿入できません",
+    "veryfront": "最前面",
+    "veryback": "最背面",
     "end": "End"
 }

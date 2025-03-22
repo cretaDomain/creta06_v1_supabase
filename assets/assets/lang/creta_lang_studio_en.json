@@ -690,7 +690,7 @@
   "saveCurrentSettingsAsMyStyle": "Save current as my style",
   "myStyle": "My style",
   "displayTextOnlyWithoutIcons": "display text only without icons",
-  "selectFrame": "Please select the frame to which you want to apply the style first",
+  "selectFrame": "Please select the frame to which you want to apply first",
   "saveCurrentPageAsMyTemplate": "Save current page as my template",
   "saveCurrentPageAsMyWelcomeBoard": "Save current page as my welcome board",
   "saveCurrentPageAsMyBoard": "Save current page as my board",
@@ -705,5 +705,11 @@
   "appearInAnimation": "Appear in animation",
   "textOnlyRightofIcons": "Text only to the right of the icon",
   "textOnlyLeftofIcons": "Text only to the left of the icon",
+  "changeName": "Change name",
+  "insertItToSelectedFrame": "Insert it to selected frame",
+  "insertItoToNewFrame": "Insert it to new frame",
+  "cantInsert": "The currently selected frame cannot insert an image or video.",
+  "veryfront": "To the very front",
+  "veryback": "To the very back",
   "end": "End"
 }
