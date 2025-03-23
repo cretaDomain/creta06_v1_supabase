@@ -711,5 +711,6 @@
   "cantInsert": "The currently selected frame cannot insert an image or video.",
   "veryfront": "To the very front",
   "veryback": "To the very back",
+  "enter6Or8DigitColorCode": "Enter a 6 or 8 digit color code",
   "end": "End"
 }

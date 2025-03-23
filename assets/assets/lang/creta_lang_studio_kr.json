@@ -713,5 +713,6 @@
   "cantInsert": "현재 선택된 프레임은 이미지나 동영상을 삽입할 수 없습니다",
   "veryfront": "맨 앞으로",
   "veryback": "맨 뒤로",
+  "enter6Or8DigitColorCode": "6자리 또는 8자리 색상 코드를 입력하세요",
   "end": "End"
 }

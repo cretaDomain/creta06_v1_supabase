@@ -716,5 +716,6 @@
     "cantInsert": "現在選択されているフレームは画像や動画を挿入できません",
     "veryfront": "最前面",
     "veryback": "最背面",
+    "enter6Or8DigitColorCode": "6または8桁のカラーコードを入力してください",
     "end": "End"
 }
