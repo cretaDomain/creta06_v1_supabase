@@ -52,8 +52,8 @@
         "End"
     ],
     "bookInfoTabBar": {
-        "クレタブック情報": "book_info",
         "クレタブック設定": "book_settings",
+        "クレタブック情報": "book_info",
         "編集者権限": "authority",
         "発行履歴": "history"
     },
@@ -717,5 +717,8 @@
     "veryfront": "最前面",
     "veryback": "最背面",
     "enter6Or8DigitColorCode": "6または8桁のカラーコードを入力してください",
+    "aleadyExistContents": "同じ名前のコンテンツが既に存在します",
+    "fileDownloaded": "ファイルがダウンロードされました",
+    "fileDownloadComplete": "ファイルのダウンロードが完了しました",
     "end": "End"
 }

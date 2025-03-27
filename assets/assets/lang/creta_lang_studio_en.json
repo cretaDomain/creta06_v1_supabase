@@ -52,8 +52,8 @@
     "End"
   ],
   "bookInfoTabBar": {
-    "Creta Book Information": "book_info",
     "Creta Book Settings": "book_settings",
+    "Creta Book Information": "book_info",
     "Editor Authority": "authority",
     "Publication History": "history"
   },
@@ -712,5 +712,8 @@
   "veryfront": "To the very front",
   "veryback": "To the very back",
   "enter6Or8DigitColorCode": "Enter a 6 or 8 digit color code",
+  "aleadyExistContents": "The content already exists",
+  "fileDownloaded": "file is downloaded",
+  "fileDownloadComplete": "All files have been downloaded",
   "end": "End"
 }

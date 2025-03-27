@@ -52,8 +52,8 @@
     "End"
   ],
   "bookInfoTabBar": {
-    "크레타북 정보": "book_info",
     "크레타북 설정": "book_settings",
+    "크레타북 정보": "book_info",
     "편집자 권한": "authority",
     "발행 이력": "history"
   },
@@ -714,5 +714,8 @@
   "veryfront": "맨 앞으로",
   "veryback": "맨 뒤로",
   "enter6Or8DigitColorCode": "6자리 또는 8자리 색상 코드를 입력하세요",
+  "aleadyExistContents": "이미 존재하는 콘텐츠입니다",
+  "fileDownloaded": "파일이 다운로드 되었습니다",
+  "fileDownloadComplete": "모든 파일의 다운로드가 완료되었습니다",
   "end": "End"
 }
