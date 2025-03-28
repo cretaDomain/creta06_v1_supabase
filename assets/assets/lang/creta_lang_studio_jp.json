@@ -579,6 +579,7 @@
     "noBtDnText": "いいえ",
     "yesBtDnText": "はい",
     "export": "クレタブックのエクスポート(Export)",
+    "import": "クレタブックのインポート(Import)",
     "inviteEmailFailed": "招待メール送信に失敗しました",
     "inviteEmailSucceed": "招待メールが送信されました",
     "zipRequestFailed": "ファイルのダウンロード要求が失敗しました",
@@ -720,5 +721,9 @@
     "aleadyExistContents": "同じ名前のコンテンツが既に存在します",
     "fileDownloaded": "ファイルがダウンロードされました",
     "fileDownloadComplete": "ファイルのダウンロードが完了しました",
+    "downloading": "ダウンロード中",
+    "selectBookJson": "インポートするCreta Book jsonファイルを選択してください",
+    "failtoReadFile": "ファイルの読み込みに失敗しました",
+    "failtoSelectFile": "ファイルの選択に失敗しました",
     "end": "End"
 }

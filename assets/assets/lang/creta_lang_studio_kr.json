@@ -576,6 +576,7 @@
   "noBtDnText": "아니오",
   "yesBtDnText": "네",
   "export": "크레타 북 내보내기(Export)",
+  "import": "크레타 북 가져오기(Import)",
   "inviteEmailFailed": "초대 이메일 발송이 실패했습니다",
   "inviteEmailSucceed": "초대 이메일이 발송되었습니다",
   "zipRequestFailed": "파일 다운로드 요청이 실패했습니다",
@@ -717,5 +718,9 @@
   "aleadyExistContents": "이미 존재하는 콘텐츠입니다",
   "fileDownloaded": "파일이 다운로드 되었습니다",
   "fileDownloadComplete": "모든 파일의 다운로드가 완료되었습니다",
+  "downloading": "다운로드 중입니다",
+  "selectBookJson": "가져오기할 Creta Book json 파일을 선택하세요",
+  "failtoReadFile": "파일을 읽는데 실패했습니다",
+  "failtoSelectFile": "파일 선택 중 오류가 발생했습니다",
   "end": "End"
 }

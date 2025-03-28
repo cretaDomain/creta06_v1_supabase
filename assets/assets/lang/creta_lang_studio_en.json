@@ -573,7 +573,8 @@
   "noBtDnTextDeloper": "Get only json files",
   "noBtDnText": "No",
   "yesBtDnText": "Yes",
-  "export": "Export Cretan Book",
+  "export": "Export Creta Book",
+  "import": "Import Creta Book",
   "inviteEmailFailed": "Invitation email sending failed",
   "inviteEmailSucceed": "The invitation email was sent successfully",
   "zipRequestFailed": "File download request failed",
@@ -715,5 +716,9 @@
   "aleadyExistContents": "The content already exists",
   "fileDownloaded": "file is downloaded",
   "fileDownloadComplete": "All files have been downloaded",
+  "downloading": "Downloading",
+  "selectBookJson": "Select creta book json file to import",
+  "failtoReadFile": "Failed to read the file",
+  "failtoSelectFile": "Failed to select the file",
   "end": "End"
 }
