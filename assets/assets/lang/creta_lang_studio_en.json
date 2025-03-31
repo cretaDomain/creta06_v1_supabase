@@ -720,5 +720,12 @@
   "selectBookJson": "Select creta book json file to import",
   "failtoReadFile": "Failed to read the file",
   "failtoSelectFile": "Failed to select the file",
+  "needTheFollowingFiles": "The following files are required",
+  "clickHereToSelectTheFileYouWantToImport": "Click here to select the files to import",
+  "MissingFilesSelectAdditionalMissingFiles": "Missing files, select additional files",
+  "allFilesAreSelected": "All files are selected",
+  "bookAlreadyExist": "The same Crete book already exists. It cannot be imported into the same system.",
+  "importFailed": "Import failed",
+  "importComplete": "Import complete",
   "end": "End"
 }

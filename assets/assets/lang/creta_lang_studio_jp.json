@@ -725,5 +725,12 @@
     "selectBookJson": "インポートするCreta Book jsonファイルを選択してください",
     "failtoReadFile": "ファイルの読み込みに失敗しました",
     "failtoSelectFile": "ファイルの選択に失敗しました",
+    "needTheFollowingFiles": "必要なファイル",
+    "clickHereToSelectTheFileYouWantToImport": "インポートしたいファイルを選択してください",
+    "MissingFilesSelectAdditionalMissingFiles": "不足しているファイルを選択してください",
+    "allFilesAreSelected": "すべてのファイルが選択されました",
+    "bookAlreadyExist": "同じクレタブックがすでに存在しています。同じシステムにインポートできません",
+    "importFailed": "インポートに失敗しました",
+    "importComplete": "インポートが完了しました",
     "end": "End"
 }

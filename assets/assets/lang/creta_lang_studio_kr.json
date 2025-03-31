@@ -722,5 +722,12 @@
   "selectBookJson": "가져오기할 Creta Book json 파일을 선택하세요",
   "failtoReadFile": "파일을 읽는데 실패했습니다",
   "failtoSelectFile": "파일 선택 중 오류가 발생했습니다",
+  "needTheFollowingFiles": "아래와 같은 파일들이 필요합니다",
+  "clickHereToSelectTheFileYouWantToImport": "여기를 눌러서 가져올 파일을 선택하세요",
+  "MissingFilesSelectAdditionalMissingFiles": "파일이 부족합니다. 누락된된 파일을 추가적으로 더 선택해주세요",
+  "allFilesAreSelected": "필요한 모든 파일이 선택되었습니다",
+  "bookAlreadyExist": "같은 크레타 북이 이미 존재합니다. 같은 시스템에 Import할 수 없습니다",
+  "importFailed": "Import가 실패하였습니다",
+  "importComplete": "Import가 완료되었습니다.",
   "end": "End"
 }
