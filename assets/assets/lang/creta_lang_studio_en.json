@@ -727,5 +727,13 @@
   "bookAlreadyExist": "The same Crete book already exists. It cannot be imported into the same system.",
   "importFailed": "Import failed",
   "importComplete": "Import complete",
+  "alignHoriLeft": "Horizontal left alignment",
+  "alignHoriCenter": "Horizontal center alignment",
+  "alignHoriRight": "Horizontal bottom alignment",
+  "alignVertUp": "Vertical top alignment",
+  "alignVertCenter": "Vertical center alignment",
+  "alignVertDown": "Vertical bottom alignment",
+  "alignHoriDist": "Equal horizontal spacing",
+  "alignVertDist": "Equal vertical spacing",
   "end": "End"
 }

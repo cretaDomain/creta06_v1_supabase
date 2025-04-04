@@ -732,5 +732,13 @@
     "bookAlreadyExist": "同じクレタブックがすでに存在しています。同じシステムにインポートできません",
     "importFailed": "インポートに失敗しました",
     "importComplete": "インポートが完了しました",
+    "alignHoriLeft": "横左揃え",
+    "alignHoriCenter": "水平中央合わせ",
+    "alignHoriRight": "横向き右揃え",
+    "alignVertUp": "縦向き",
+    "alignVertCenter": "縦中央合わせ",
+    "alignVertDown": "縦下に合わせる",
+    "alignHoriDist": "横間隔を等しく",
+    "alignVertDist": "縦間隔を等しく",
     "end": "End"
 }

@@ -729,5 +729,13 @@
   "bookAlreadyExist": "같은 크레타 북이 이미 존재합니다. 같은 시스템에 Import할 수 없습니다",
   "importFailed": "Import가 실패하였습니다",
   "importComplete": "Import가 완료되었습니다.",
+  "alignHoriLeft": "가로좌측맞춤",
+  "alignHoriCenter": "가로중앙맞춤",
+  "alignHoriRight": "가로우측맞춤",
+  "alignVertUp": "세로위로맞춤",
+  "alignVertCenter": "세로중앙맞춤",
+  "alignVertDown": "세로아래로맞춤",
+  "alignHoriDist": "가로간격을 동일하게",
+  "alignVertDist": "세로간격을 동일하게",
   "end": "End"
 }
