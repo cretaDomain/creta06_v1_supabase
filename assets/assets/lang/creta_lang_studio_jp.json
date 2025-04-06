@@ -93,6 +93,7 @@
         "camera": "camera",
         "グーグルマップ": "map",
         "ニュース": "news",
+        "ゲージ": "gauges",
         "為替レート計算": "currency exchange",
         "今日の英語 ": "daily quote",
         "Music": "music"
@@ -740,5 +741,6 @@
     "alignVertDown": "縦下に合わせる",
     "alignHoriDist": "横間隔を等しく",
     "alignVertDist": "縦間隔を等しく",
+    "gauges": "ゲージ",
     "end": "End"
 }

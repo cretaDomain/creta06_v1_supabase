@@ -93,6 +93,7 @@
     "카메라": "camera",
     "구글맵": "map",
     "뉴스": "news",
+    "게이지": "gauges",
     "환율계산": "currency exchange",
     "오늘 영어 ": "daily quote",
     "뮤직": "music"
@@ -737,5 +738,6 @@
   "alignVertDown": "세로아래로맞춤",
   "alignHoriDist": "가로간격을 동일하게",
   "alignVertDist": "세로간격을 동일하게",
+  "gauges": "게이지",
   "end": "End"
 }

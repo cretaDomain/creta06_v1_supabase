@@ -93,6 +93,7 @@
     "Camera": "camera",
     "Google map": "map",
     "news": "news",
+    "gauages": "gauges",
     "Currency exchange": "currency exchange",
     "Today's English ": "daily quote",
     "Music": "music"
@@ -735,5 +736,6 @@
   "alignVertDown": "Vertical bottom alignment",
   "alignHoriDist": "Equal horizontal spacing",
   "alignVertDist": "Equal vertical spacing",
+  "gauges": "Gauges",
   "end": "End"
 }
