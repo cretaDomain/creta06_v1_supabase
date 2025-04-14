@@ -737,5 +737,7 @@
   "alignHoriDist": "Equal horizontal spacing",
   "alignVertDist": "Equal vertical spacing",
   "gauges": "Gauges",
+  "duplicate": "duplicate",
+  "textInput": "Text input",
   "end": "End"
 }

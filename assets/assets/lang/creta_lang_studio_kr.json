@@ -739,5 +739,7 @@
   "alignHoriDist": "가로간격을 동일하게",
   "alignVertDist": "세로간격을 동일하게",
   "gauges": "게이지",
+  "duplicate": "복사&붙여넣기(duplicate)",
+  "textInput": "텍스트 입력",
   "end": "End"
 }

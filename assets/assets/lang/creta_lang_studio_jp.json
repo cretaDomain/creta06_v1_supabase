@@ -742,5 +742,7 @@
     "alignHoriDist": "横間隔を等しく",
     "alignVertDist": "縦間隔を等しく",
     "gauges": "ゲージ",
+    "duplicate": "複製(duplicate)",
+    "textInput": "テキスト入力",
     "end": "End"
 }
