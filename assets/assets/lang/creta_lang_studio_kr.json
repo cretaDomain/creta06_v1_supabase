@@ -58,6 +58,7 @@
     "발행 이력": "history"
   },
   "frameTabBar": {
+    "페이지 설정": "pageTab",
     "프레임 설정": "frameTab",
     "콘텐츠 설정": "contentsTab",
     "링크 설정": "linkTab"

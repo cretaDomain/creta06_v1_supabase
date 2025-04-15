@@ -52,12 +52,13 @@
         "End"
     ],
     "bookInfoTabBar": {
-        "クレタブック設定": "book_settings",
-        "クレタブック情報": "book_info",
+        "ブック設定": "book_settings",
+        "ブック情報": "book_info",
         "編集者権限": "authority",
         "発行履歴": "history"
     },
     "frameTabBar": {
+        "ページ設定": "pageTab",
         "フレーム設定": "frameTab",
         "コンテンツ設定": "contentsTab",
         "リンク設定": "linkTab"

@@ -52,15 +52,16 @@
     "End"
   ],
   "bookInfoTabBar": {
-    "Creta Book Settings": "book_settings",
-    "Creta Book Information": "book_info",
-    "Editor Authority": "authority",
-    "Publication History": "history"
+    "Book Prefs": "book_settings",
+    "Book Info": "book_info",
+    "Authority": "authority",
+    "Publish Log": "history"
   },
   "frameTabBar": {
-    "Frame Settings": "frameTab",
-    "Content Settings": "contentsTab",
-    "Link Setting": "linkTab"
+    "PagePrefs": "pageTab",
+    "FramePrefs": "frameTab",
+    "ContentPrefs": "contentsTab",
+    "LinkPrefs": "linkTab"
   },
   "textMenuTabBar": {
     "Choose a style": "add_text",
