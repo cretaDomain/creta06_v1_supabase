@@ -742,5 +742,6 @@
   "gauges": "게이지",
   "duplicate": "복사&붙여넣기(duplicate)",
   "textInput": "텍스트 입력",
+  "fileSizeTooLarge": "파일 크기가 500MB 를 넘을 수 없습니다",
   "end": "End"
 }

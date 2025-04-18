@@ -745,5 +745,6 @@
     "gauges": "ゲージ",
     "duplicate": "複製(duplicate)",
     "textInput": "テキスト入力",
+    "fileSizeTooLarge": "ファイルサイズが500 MBを超えることはできません",
     "end": "End"
 }

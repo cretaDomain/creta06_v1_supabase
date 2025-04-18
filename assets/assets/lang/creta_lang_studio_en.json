@@ -740,5 +740,6 @@
   "gauges": "Gauges",
   "duplicate": "duplicate",
   "textInput": "Text input",
+  "fileSizeTooLarge": "File size cannot exceed 500MB",
   "end": "End"
 }
