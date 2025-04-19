@@ -623,7 +623,7 @@
   "broadcastComplete": "The broadcast has been applied.",
   "moveToDevice": "Would you like to go to the device management page ?",
   "needToWaitUplodingTitle": "Still uploading.",
-  "needToWaitUploding": "The content has not been uploaded yet. You can publish it after the upload is finished. Please try again later.",
+  "needToWaitUploding": "There are some contents that have not been uploaded properly yet. \nPlease try again after the upload is complete, or remove the following contents.",
   "AllSizeView": "View all sizes",
   "applyTempateToNewPage": "Apply template to new page",
   "applyWelcomeBoardToNewPage": "Apply welcome board to new page",
@@ -741,5 +741,8 @@
   "duplicate": "duplicate",
   "textInput": "Text input",
   "fileSizeTooLarge": "File size cannot exceed 500MB",
+  "copyLink": "Copy link",
+  "deleteServerFile": "Delete file from server",
+  "confirmDeleteServerFile": "Are you sure you want to completely delete the file from the server?\nThis operation is irreversible.",
   "end": "End"
 }

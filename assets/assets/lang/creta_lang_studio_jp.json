@@ -628,7 +628,7 @@
     "broadcastComplete": "放送が適用されました。",
     "moveToDevice": "デバイス管理画面に移動しますか？",
     "needToWaitUplodingTitle": "まだアップロード中です。",
-    "needToWaitUploding": "まだコンテンツのアップロードが完了していません。アップロードが完了した後に発行できます。しばらくしてからもう一度お試しください。",
+    "needToWaitUploding": "まだコンテンツのアップロードが正しく終了していないコンテンツがあります。 \nアップロードが完了したらもう一度やり直すか、次のコンテンツを削除してください。",
     "AllSizeView": "すべてのサイズを見る",
     "applyTempateToNewPage": "新しいページにテンプレートを適用",
     "applyWelcomeBoardToNewPage": "新しいページにウェルカムボードを適用",
@@ -746,5 +746,8 @@
     "duplicate": "複製(duplicate)",
     "textInput": "テキスト入力",
     "fileSizeTooLarge": "500MB を超えることはできません",
+    "copyLink": "リンクをコピー",
+    "deleteServerFile": "サーバーからファイルを削除",
+    "confirmDeleteServerFile": "サーバーからファイルを完全に削除しますか？\nこの操作は元に戻せません。",
     "end": "End"
 }
