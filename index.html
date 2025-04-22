@@ -35,7 +35,57 @@
 </head>
 
 <body>
-  <script src="flutter_bootstrap.js?2025040418" async></script>
+  <script src="flutter_bootstrap.js?2025042214" async></script>
+
+  <script>
+    document.addEventListener('keydown', function (e) {
+      // Alt + 좌/우 방향키 조합을 감지
+      if (e.altKey && (e.key === 'ArrowRight' || e.key === 'ArrowLeft')) {
+        e.preventDefault(); // 기본 브라우저 동작 방지
+        return false;
+      }
+    }, true);
+
+    // 전역 함수로 선언하여 Flutter에서 콜백 등록할 수 있게 함
+    window.mouseButtonCallback = null;
+
+    // 마우스 앞으로/뒤로 버튼 감지 - 여러 이벤트에 등록
+    function handleMouseNavigation(e) {
+      // 뒤로 버튼(3 또는 8) 또는 앞으로 버튼(4 또는 16) 감지
+      if (e.button === 3 || e.button === 4 || e.buttons === 8 || e.buttons === 16) {
+        e.preventDefault(); // 기본 브라우저 동작 방지
+        e.stopPropagation(); // 이벤트 전파 중지
+
+        // 버튼 코드 식별
+        let buttonCode = e.button;
+        console.log('감지된 마우스 버튼:', buttonCode === 3 ? '뒤로 버튼' : '앞으로 버튼');
+
+        // Flutter로 이벤트 전달
+        if (window.mouseButtonCallback != null) {
+          window.mouseButtonCallback(buttonCode);
+        }
+
+        return false;
+      }
+    }
+
+    // 여러 마우스 이벤트에 리스너 추가 (다양한 브라우저 호환성 위해)
+    document.addEventListener('mousedown', handleMouseNavigation, true);
+    document.addEventListener('mouseup', handleMouseNavigation, true);
+    document.addEventListener('click', handleMouseNavigation, true);
+    document.addEventListener('auxclick', handleMouseNavigation, true); // 보조 버튼 클릭용 이벤트
+
+    // 브라우저 뒤로가기 기능 차단
+    window.addEventListener('popstate', function (e) {
+      e.preventDefault();
+      history.pushState(null, document.title, window.location.href);
+      return false;
+    }, true);
+
+    // 초기 history 상태 추가 (뒤로가기 차단 효과 강화)
+    history.pushState(null, document.title, window.location.href);
+  </script>
+
 </body>
 
 </html>
