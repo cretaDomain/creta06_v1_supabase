@@ -227,5 +227,8 @@
     "copyCompleted": "コピーが完了しました",
     "name": "名前",
     "emailBeforeRemoved": "以前に退会したメールアドレスです。",
+    "inputPassword": "新しいパスワードを入力してください",
+    "noIdentityPassword": "パスワードが一致しません",
+    "wrongPassword": "パスワードが間違っています",
     "end": ""
 }

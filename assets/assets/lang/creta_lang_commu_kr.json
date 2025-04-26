@@ -229,5 +229,8 @@
   "emailBeforeRemoved": "이전에 탈퇴한 이메일입니다.",
   "errorOnRemovingAccount1": "계정 삭제중 에러가 발생하였습니다.",
   "errorOnRemovingAccount2": "관리자에 문의하세요.",
+  "inputPassword": "비밀번호를 입력하세요",
+  "noIdentityPassword": "새 비밀번호 두개가 서로 일치하지 않습니다.",
+  "wrongPassword": "비밀 번호가 틀립니다.",
   "end": "끝"
 }

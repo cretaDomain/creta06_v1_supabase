@@ -226,5 +226,8 @@
   "copyCompleted": "Copy completed",
   "name": "Name",
   "emailBeforeRemoved": "This email address  has been unregistered before.",
+  "inputPassword": "Enter Password",
+  "noIdentityPassword": "The two passwords do not match.",
+  "wrongPassword": "Password is incorrect",
   "endOfList": "End of List"
 }
