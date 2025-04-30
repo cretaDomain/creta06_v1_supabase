@@ -661,6 +661,7 @@
   "textColor": "Text color",
   "bgColor": "BG color",
   "borderColor": "border color",
+  "borderShadowColor": "border/shadow color",
   "borderThick": "border thickness",
   "picketLength": "Picket length",
   "linkName": "Link name",

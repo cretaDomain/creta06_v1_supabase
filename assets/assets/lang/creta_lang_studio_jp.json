@@ -666,6 +666,7 @@
     "textColor": "テキスト色",
     "bgColor": "背景色",
     "borderColor": "境界線色",
+    "borderShadowColor": "境界/影線色",
     "borderThick": "境界線太さ",
     "picketLength": "ピケット長さ",
     "linkName": "リンク名",
