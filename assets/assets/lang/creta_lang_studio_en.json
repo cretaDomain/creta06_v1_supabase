@@ -666,7 +666,7 @@
   "picketLength": "Picket length",
   "linkName": "Link name",
   "iconType": "Icon type",
-  "picketDirection": "Picket type",
+  "picketDirection": "Type",
   "SaveCurrentSettingsAsMyStyle1": "Save current as style1",
   "SaveCurrentSettingsAsMyStyle2": "Save current as style2",
   "SaveCurrentSettingsAsMyStyle3": "Save current as style3",
