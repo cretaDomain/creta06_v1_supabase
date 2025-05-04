@@ -751,5 +751,6 @@
     "deleteServerFile": "サーバーからファイルを削除",
     "confirmDeleteServerFile": "サーバーからファイルを完全に削除しますか？\nこの操作は元に戻せません。",
     "isMainFrame": "メインフレームに設定",
+    "copyAllPageLink": "すべてのページのリンクをコピー",
     "end": "End"
 }
