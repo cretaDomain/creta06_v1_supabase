@@ -749,5 +749,6 @@
   "confirmDeleteServerFile": "서버에서 파일을 완전히 삭제하시겠습니까?\n이 작업은 되돌릴 수 없습니다.",
   "isMainFrame": "메인 프레임으로 설정",
   "copyAllPageLink": "모든 페이지 링크 복사",
+  "noProperty": "속성이 없습니다",
   "end": "End"
 }

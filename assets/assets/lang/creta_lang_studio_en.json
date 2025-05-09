@@ -747,5 +747,6 @@
   "confirmDeleteServerFile": "Are you sure you want to completely delete the file from the server?\nThis operation is irreversible.",
   "isMainFrame": "Set as the main frame",
   "copyAllPageLink": "Copy all page links",
+  "noProperty": "No property",
   "end": "End"
 }
