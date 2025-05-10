@@ -111,7 +111,7 @@
   "completeRegistration": "Your registration will be completed.",
   "resendEmail": "Resend",
   "sendPasswordResetUrl": "Send Password Reset URL",
-  "passwordRule": "Password (6-16 characters, must Includes upper and lower case letters and numbers)",
+  "passwordRule": "Password (6-16 characters, must Includes upper and lower case letters and specials and numbers)",
   "emailConfirm": "We have sent an email. Please check your inbox.",
   "emailSendError": "Failed to send email. Please contact the administrator.",
   "password": "Password",

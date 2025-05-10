@@ -111,7 +111,7 @@
     "completeRegistration": "会員登録が完了します。",
     "resendEmail": "再送信",
     "sendPasswordResetUrl": "パスワード変更URLを送信",
-    "passwordRule": "パスワード (6文字～16文字、大文字、小文字の両方を含む)",
+    "passwordRule": "パスワード (6文字～16文字、大文字、小文字、特殊文字の両方を含む)",
     "emailConfirm": "メールを送信しましたので、メールボックスをご確認ください。",
     "emailSendError": "メールを送信できません。管理者に問い合わせてください。",
     "password": "パスワード",
