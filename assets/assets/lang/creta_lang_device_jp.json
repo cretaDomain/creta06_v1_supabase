@@ -134,5 +134,9 @@
   "automaticallyDeletedAfterwards": "日以降自動的に削除されます。",
   "trashCanDataWillBe": "ゴミ箱のデータは",
   "emailRemovedLately": "最近削除されたidです。 まずユーザーのゴミ箱に残っている該当emailを完全に削除してからもう一度お試しください。",
+  "selectTeams": "チームを選択してください",
+  "selectAll": "すべて選択",
+  "clearSelection": "選択解除",
+  "selectedTeams": "選択されたチーム",
   "end": "End"
 }

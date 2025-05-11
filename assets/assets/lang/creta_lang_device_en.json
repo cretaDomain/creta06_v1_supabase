@@ -134,5 +134,9 @@
   "automaticallyDeletedAfterwards": " days after.",
   "trashCanDataWillBe": "The data in the trash can will be automatically deleted",
   "emailRemovedLately": "This is a recently deleted ID. First, permanently delete the email in question from the user trash and try again.",
+  "selectTeams": "Select team",
+  "selectAll": "Select all",
+  "clearSelection": "Clear selection",
+  "selectedTeams": "Selected teams",
   "end": "End"
 }
