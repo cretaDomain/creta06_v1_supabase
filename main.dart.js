@@ -143209,12 +143209,12 @@ var $async$L0=A.f(function(c,d){if(c===1)return A.h(d,r)
 while(true)switch(s){case 0:j=t.u.a($.aP.dh())
 if(j==null){s=1
 break}p=a===B.o6
-if(p)o=1180
+if(p)o=1280
 else{n=j.c5$
 n===$&&A.a()
 n=n.a
 n===$&&A.a()
-o=n*0.5}if(p)m=720
+o=n*0.5}if(p)m=800
 else{p=j.cb$
 p===$&&A.a()
 p=p.a
