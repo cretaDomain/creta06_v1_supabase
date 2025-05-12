@@ -14917,7 +14917,7 @@ case 2:return A.h(o,r)}})
 return A.j($async$ph,r)},
 duh(){var s=null,r=B.c.gac($.ddP),q=$.djJ(),p=$.E().dx
 p===$&&A.a()
-return A.q("Version "+r+" (hycop 0.6.40) \nbuild 20250512-14 \n"+q,s,s,s,s,s,s,s,p.nl(B.C,B.bp),s,s,s,s)},
+return A.q("Version "+r+" (hycop 0.6.40) \nbuild 20250512-15 \n"+q,s,s,s,s,s,s,s,p.nl(B.C,B.bp),s,s,s,s)},
 duf(a){var s,r=null,q=A.c3().atX(),p=a?40:20
 q=A.kt(B.z,r,r,r,!1,B.b5,r,r,p,new A.eR("assets/icons/"+q+".png",r,r),r,r,!1,B.b0,r)
 p=A.c3().atX()
@@ -125048,7 +125048,7 @@ if(j.r>1025){m=r>0?r-1:0
 l.push(new A.q2(j.z,m,new A.cDc(j),102,30,i))}if(j.r>1025){m=B.c.gac($.ddP)
 k=$.E().db
 k===$&&A.a()
-l.push(A.M(A.b([A.q("Ver. "+m+",20250512-14",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.djJ(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.r,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
+l.push(A.M(A.b([A.q("Ver. "+m+",20250512-15",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.djJ(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.r,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
 return A.A(i,new A.C(B.aU8,A.K(o,B.j,i,B.y,B.h,i),i),B.i,i,i,new A.a9(B.k,i,i,i,q,i,i,B.t),i,i,i,i,i,i,i,h)},
 cgl(){var s,r,q,p=this,o=null,n=p.f,m=t.p,l=A.M(A.b([B.bAO,p.coD(p.ay),B.bAZ,p.aXr(p.ch,"right")],m),B.j,o,B.l,B.h),k=A.aX(40)
 k=A.am(A.A(o,o,B.i,o,o,new A.a9(B.MP.b9(0.6),o,o,k,o,o,o,B.t),o,480,o,o,o,o,o,1800),o,o)
@@ -132584,11 +132584,11 @@ if(c1){s=s.c.k3
 s===$&&A.a()
 s=s.a
 s===$&&A.a()
-s=new A.aGw(s.b9(0.5),c0)}else{s=s.c.k3
+s=new A.aGw(s.b9(0.75),c0)}else{s=s.c.k3
 s===$&&A.a()
 s=s.a
 s===$&&A.a()
-s=new A.aD1(s.b9(0.5),c0)}b7=A.cv(c0,A.ev(c0,c0,c0,s,new A.V(24,l+4)),c0,c0,p/2-12+a2,c0,c2,c0)
+s=new A.aD1(s.b9(0.75),c0)}b7=A.cv(c0,A.ev(c0,c0,c0,s,new A.V(24,l+4)),c0,c0,p/2-12+a2,c0,c2,c0)
 c2=c3===B.h1||c3===B.hC||c3===B.eK||n?r:0
 s=!a0||c1?r+h:0
 q=(!m||c3===B.eK)&&b9.r?22:0
