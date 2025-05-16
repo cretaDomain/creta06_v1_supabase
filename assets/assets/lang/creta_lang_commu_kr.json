@@ -232,5 +232,7 @@
   "inputPassword": "비밀번호를 입력하세요",
   "noIdentityPassword": "새 비밀번호 두개가 서로 일치하지 않습니다.",
   "wrongPassword": "비밀 번호가 틀립니다.",
+  "newPlayList": "새 재생목록 만들기",
+  "noAbuseWordWarning": "욕설, 비방 등은 경고 없이 삭제될 수 있습니다.",
   "end": "끝"
 }

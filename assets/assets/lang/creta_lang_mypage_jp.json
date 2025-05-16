@@ -27,9 +27,31 @@
     "language": "言語",
     "job": "職業",
     "save": "変更を保存",
-    "countryList": ["大韓民国", "アメリカ", "日本", "中国", "ベトナム", "フランス", "ドイツ"],
-    "languageList": ["韓国語", "English", "日本語", "中文", "Tiếng Việt", "français", "ドイツ語"],
-    "jobList": ["一般", "学生", "先生", "デザイナー", "開発者"],
+    "countryList": [
+        "大韓民国",
+        "アメリカ",
+        "日本",
+        "中国",
+        "ベトナム",
+        "フランス",
+        "ドイツ"
+    ],
+    "languageList": [
+        "韓国語",
+        "English",
+        "日本語",
+        "中文",
+        "Tiếng Việt",
+        "français",
+        "ドイツ語"
+    ],
+    "jobList": [
+        "一般",
+        "学生",
+        "先生",
+        "デザイナー",
+        "開発者"
+    ],
     "basicProfileImgBTN": "デフォルトイメージに変更",
     "passwordChangeBTN": "パスワードを変更",
     "saveChangeBTN": "変更内容を保存",
@@ -58,9 +80,18 @@
     "initPageTip": "クレタを起動時に表示するページを選択してください",
     "cookieSetting": "クッキー設定",
     "cookieSettingTip": "クッキーを設定してください",
-    "themeList": ["ライトモード", "ダークモード"],
-    "initPageList": ["コミュニティ", "スタジオ"],
-    "cookieList": ["Cookieを許可", "Cookieを拒否"],
+    "themeList": [
+        "ライトモード",
+        "ダークモード"
+    ],
+    "initPageList": [
+        "コミュニティ",
+        "スタジオ"
+    ],
+    "cookieList": [
+        "Cookieを許可",
+        "Cookieを拒否"
+    ],
     "teamInfo": "チーム情報",
     "teamName": "チーム名",
     "teamChannel": "チームチャンネル",
@@ -73,21 +104,32 @@
     "addMemberBTN": "チームメンバーを管理",
     "exitBTN": "退出",
     "deleteTeamBTN": "チームを削除",
-    "cretaGradeList": ["クレタルーキー", "クレタスター", "クレタセレブ"],
-    "ratePlanList": ["個人無料", "個人有料", "チーム有料", "エンタープライズ"],
-    "teamPermissionList": ["オーナー", "管理者", "チームメンバー"],
+    "cretaGradeList": [
+        "クレタルーキー",
+        "クレタスター",
+        "クレタセレブ"
+    ],
+    "ratePlanList": [
+        "個人無料",
+        "個人有料",
+        "チーム有料",
+        "エンタープライズ"
+    ],
+    "teamPermissionList": [
+        "オーナー",
+        "管理者",
+        "チームメンバー"
+    ],
     "teamnameInput": "ニックネームを入力してください",
     "openChannel": "チャンネル公開",
     "openChannelForEverybody": "全員にチャンネルが公開されます",
     "openTeamMember": "チームメンバー公開",
     "openTeamChannel": "チームチャンネルにチームメンバーのチャンネルが公開されます。",
     "introChannel": "チャンネル紹介",
-
     "oldPassword": "現在のパスワード",
     "newPassword": "新しいパスワード",
     "newPasswordConfirm": "新しいパスワードの確認",
     "OK": "完了",
-
     "provide1GBStorage": "1GBのストレージを提供",
     "sharedCreataBookEditable": "共有されたクレタブックの複製および編集が可能",
     "freeUseOfBasicTemplates": "基本テンプレートの無料使用可能",
@@ -141,32 +183,25 @@
     "discount": "割引",
     "dollor": "円",
     "peopleNo": "人数",
-    "people" : "人",
-
+    "people": "人",
     "shouldChangePassword": "必ずパスワードを変更してからご使用ください。",
-    "noTeam" : "所属しているチームがありません。",
-
-    "memberAuth" :  "メンバー権限",
-    "managerAuth" :  "マネージャー権限",
-
-    "enterpriseCantbePrivateTeamMember" :  "エンタープライズのチームメンバーです。エンタープライズの所属会員は個人会員のチームに所属することはできません。別のメールアドレスでお試しください。",
-    "notRegisteredMember" : "まだ会員登録されていないメールアドレスです。会員登録をした人だけがチームメンバーになれます。",
-    "memberLimitExceed" : "チームメンバーは4名までしか追加できません。これ以上追加できません。",
-
-    "confirmOfDeletingAccountInfo" : "アカウントを退会しますか？",
-    "agreementOfDeletingAccountInfo" : "アカウントの削除に同意します。 (必須)",
-    "agreementOfDeletingChannelTeamInfo" : "アカウントのチャンネルとチーム情報の削除に同意します。 (必須)",
-    "agreementOfDeletingContentsInfo" : "カウントに保存されているコンテンツの削除に同意します。 (必須)",
-    "checkRequirements" : "必須事項をご確認ください。",
-
-    "processingAccountDeleting" : "アカウントの退会を処理中です。",
-    "dontclosewindow" : "このウィンドウを閉じないでください。",
-
-    "removeAccountCompleted" : "アカウントの退会が完了しました。",
-    "returnToStartPage" : "ホーム画面に移動します。",
-
-    "OK2" : "確認",
-    "cancel" : "キャンセル",
-
-    "end" : ""
+    "noTeam": "所属しているチームがありません。",
+    "memberAuth": "メンバー権限",
+    "managerAuth": "マネージャー権限",
+    "enterpriseCantbePrivateTeamMember": "エンタープライズのチームメンバーです。エンタープライズの所属会員は個人会員のチームに所属することはできません。別のメールアドレスでお試しください。",
+    "notRegisteredMember": "まだ会員登録されていないメールアドレスです。会員登録をした人だけがチームメンバーになれます。",
+    "memberLimitExceed": "チームメンバーは4名までしか追加できません。これ以上追加できません。",
+    "confirmOfDeletingAccountInfo": "アカウントを退会しますか？",
+    "agreementOfDeletingAccountInfo": "アカウントの削除に同意します。 (必須)",
+    "agreementOfDeletingChannelTeamInfo": "アカウントのチャンネルとチーム情報の削除に同意します。 (必須)",
+    "agreementOfDeletingContentsInfo": "カウントに保存されているコンテンツの削除に同意します。 (必須)",
+    "checkRequirements": "必須事項をご確認ください。",
+    "processingAccountDeleting": "アカウントの退会を処理中です。",
+    "dontclosewindow": "このウィンドウを閉じないでください。",
+    "removeAccountCompleted": "アカウントの退会が完了しました。",
+    "returnToStartPage": "ホーム画面に移動します。",
+    "OK2": "確認",
+    "cancel": "キャンセル",
+    "InputChannelDescription": "チャンネルの説明を入力してください",
+    "end": ""
 }
