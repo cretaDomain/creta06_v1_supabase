@@ -17,8 +17,8 @@
     "basicBookSortFilter": [
         "最新順",
         "名前順",
-        "いいね",
-        "照会手順"
+        "お気に入り順",
+        "再生回数順"
     ],
     "basicBookPermissionFilter": [
         "権限別（全体）",
