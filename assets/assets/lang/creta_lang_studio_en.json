@@ -750,5 +750,8 @@
   "copyAllPageLink": "Copy all page links",
   "noProperty": "No property",
   "backToList": "Return to list",
+  "generatingImportData": "Generating Import Data. Please wait a moment.",
+  "readyToImport": "Importing is ready. Click Confirm.",
+  "operationCanceled": "Operation canceled",
   "end": "End"
 }
