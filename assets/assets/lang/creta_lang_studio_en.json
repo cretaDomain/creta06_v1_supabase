@@ -753,5 +753,6 @@
   "generatingImportData": "Generating Import Data. Please wait a moment.",
   "readyToImport": "Importing is ready. Click Confirm.",
   "operationCanceled": "Operation canceled",
+  "noThumbnailAvailable": "No thumbnail available",
   "end": "End"
 }

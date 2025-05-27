@@ -758,5 +758,6 @@
     "generatingImportData": "インポートデータを作成しています。しばらくお待ちください。",
     "readyToImport": "インポート準備が完了しました。  OKを押してください。",
     "operationCanceled": "操作がキャンセルされました",
+    "noThumbnailAvailable": "サムネイルがありません",
     "end": "End"
 }
