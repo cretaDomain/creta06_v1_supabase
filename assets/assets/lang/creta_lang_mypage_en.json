@@ -204,5 +204,6 @@
   "cancel": "Cancel",
   "InputChannelDescription": "Enter a channel description",
   "changeTeam": "Change Team",
+  "enable": "Enable",
   "endOfList": "End of List"
 }

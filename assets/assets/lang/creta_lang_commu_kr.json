@@ -235,5 +235,7 @@
   "newPlayList": "새 재생목록 만들기",
   "noAbuseWordWarning": "욕설, 비방 등은 경고 없이 삭제될 수 있습니다.",
   "copyComplete": "복사가 완료되었습니다.",
+  "disabledUser": "사용이 정지된 계정입니다.",
+  "ContactYourAdministrator": "관리자에게 문의하세요.",
   "end": "끝"
 }

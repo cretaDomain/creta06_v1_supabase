@@ -232,5 +232,7 @@
   "newPlayList": "New Playlist",
   "noAbuseWordWarning": "Any comments containing profanity, slander, etc. may be deleted without warning.",
   "copyComplete": "Copy completed",
+  "disabledUser": "This account has been disabled.",
+  "ContactYourAdministrator": "Please contact your administrator.",
   "endOfList": "End of List"
 }
