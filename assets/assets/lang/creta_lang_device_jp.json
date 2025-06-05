@@ -139,5 +139,6 @@
   "clearSelection": "選択解除",
   "selectedTeams": "選択されたチーム",
   "selectBookOrPlaylist": "放送するクレタブックまたはプレイリストを選択してください",
+  "showTeam": "チームを表示",
   "end": "End"
 }

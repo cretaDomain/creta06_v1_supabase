@@ -652,7 +652,7 @@
   "gotoJustBefore": "이전 페이지로 이동",
   "AllMyDevices": "모든 디바이스",
   "SelectedDevices": "선택된 디바이스",
-  "gotoPlaylist": "플레이리스트로 이동",
+  "gotoPlaylist": "재생목록으로 이동",
   "RepeatEveryDayAtSameTime": "매일 같은 시간에 반복 수행",
   "OnSpecifiedDayAtSpecifiedTime": "지정된 날짜와 시간에만 수행",
   "DoNotCloseTheWindowUntilTheUploadIsComplete": "업로드가 완료될 때까지 창을 닫지 마십시오.",
