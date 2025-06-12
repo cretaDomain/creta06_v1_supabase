@@ -15025,7 +15025,7 @@ case 2:return A.h(o,r)}})
 return A.j($async$pt,r)},
 dwe(){var s=null,r=B.c.gac($.dfP),q=$.dlE(),p=$.E().dx
 p===$&&A.a()
-return A.q("Version "+r+" (hycop 0.6.47) \nbuild 20250612-17 \n"+q,s,s,s,s,s,s,s,p.no(B.C,B.bn),s,s,s,s)},
+return A.q("Version "+r+" (hycop 0.6.47) \nbuild 20250612-19 \n"+q,s,s,s,s,s,s,s,p.no(B.C,B.bn),s,s,s,s)},
 dwc(a){var s,r=null,q=A.bJ().auc(),p=a?40:20
 q=A.kz(B.z,r,r,r,!1,B.b5,r,r,p,new A.eN("assets/icons/"+q+".png",r,r),r,r,!1,B.b0,r)
 p=A.bJ().auc()
@@ -109489,11 +109489,11 @@ if(!A.cq(d,"video",0))if(!A.cq(d,"image",0))c=!A.cq(d,"presentation",0)
 if(c){h.m(B.q,"mime type is not video, image, ppt",null,null)
 s=3
 break}j=B.f.fY(d,"presentation")
+h=l.a
 s=j?9:11
 break
-case 9:h.m(B.A,u.O,null,null)
-s=12
-return A.e(l.H7(i,l.a.d),$async$$1)
+case 9:s=12
+return A.e(l.H7(i,h.d),$async$$1)
 case 12:b=a2
 s=13
 return A.e(b.asa(0,new A.bgb(l,k,b,o),new A.bgc(k),A.a0h()),$async$$1)
@@ -109501,7 +109501,7 @@ case 13:s=10
 break
 case 11:a=o
 s=14
-return A.e(l.H7(i,l.a.d),$async$$1)
+return A.e(l.H7(i,h.d),$async$$1)
 case 14:a.push(a2)
 case 10:s=3
 break
@@ -126161,7 +126161,7 @@ if(j.r>1025){m=r>0?r-1:0
 l.push(new A.ry(j.z,m,new A.cEW(j),102,30,i))}if(j.r>1025){m=B.c.gac($.dfP)
 k=$.E().db
 k===$&&A.a()
-l.push(A.L(A.b([A.q("Ver. "+m+",20250612-17",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dlE(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.u,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
+l.push(A.L(A.b([A.q("Ver. "+m+",20250612-19",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dlE(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.u,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
 return A.A(i,new A.C(B.aUg,A.K(o,B.j,i,B.y,B.h,i),i),B.i,i,i,new A.a7(B.k,i,i,i,q,i,i,B.r),i,i,i,i,i,i,i,h)},
 cgH(){var s,r,q,p=this,o=null,n=p.f,m=t.p,l=A.L(A.b([B.bB0,p.coV(p.ay),B.bBb,p.aXP(p.ch,"right")],m),B.j,o,B.l,B.h),k=A.aX(40)
 k=A.al(A.A(o,o,B.i,o,o,new A.a7(B.N0.aV(0.6),o,o,k,o,o,o,B.r),o,480,o,o,o,o,o,1800),o,o)
@@ -161687,10 +161687,10 @@ s=r.i(a,"posY")
 o=J.e6(s==null?0:s)
 s=n.fx
 s===$&&A.a()
-s.b9(p<0?0:p,!0,!1)
+s.b9(p,!0,!1)
 s=n.fy
 s===$&&A.a()
-s.b9(o<0?0:o,!0,!1)
+s.b9(o,!0,!1)
 s=n.go
 s===$&&A.a()
 q=r.i(a,"angle")
