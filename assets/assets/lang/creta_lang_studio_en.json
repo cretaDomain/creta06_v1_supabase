@@ -754,5 +754,6 @@
   "readyToImport": "Importing is ready. Click Confirm.",
   "operationCanceled": "Operation canceled",
   "noThumbnailAvailable": "No thumbnail available",
+  "webPaste": "Web URL Paste",
   "end": "End"
 }

@@ -759,5 +759,6 @@
     "readyToImport": "インポート準備が完了しました。  OKを押してください。",
     "operationCanceled": "操作がキャンセルされました",
     "noThumbnailAvailable": "サムネイルがありません",
+    "webPaste": "Webから貼り付け",
     "end": "End"
 }

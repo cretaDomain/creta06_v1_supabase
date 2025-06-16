@@ -756,5 +756,6 @@
   "readyToImport": "Importing 준비가 완료되었습니다.  확인을 눌러 주세요.",
   "operationCanceled": "작업이 취소되었습니다",
   "noThumbnailAvailable": "썸네일이 없습니다",
+  "webPaste": "웹주소 붙여넣기",
   "end": "End"
 }
