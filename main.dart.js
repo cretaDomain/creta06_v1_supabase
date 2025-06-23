@@ -14989,7 +14989,7 @@ case 2:return A.h(o,r)}})
 return A.j($async$pt,r)},
 dwg(){var s=null,r=B.c.gac($.dfQ),q=$.dlF(),p=$.E().dx
 p===$&&A.a()
-return A.q("Version "+r+" (hycop 0.6.47) \nbuild 20250620-18 \n"+q,s,s,s,s,s,s,s,p.no(B.C,B.bn),s,s,s,s)},
+return A.q("Version "+r+" (hycop 0.6.47) \nbuild 20250623-11 \n"+q,s,s,s,s,s,s,s,p.no(B.C,B.bn),s,s,s,s)},
 dwe(a){var s,r=null,q=A.bJ().auc(),p=a?40:20
 q=A.kz(B.z,r,r,r,!1,B.b5,r,r,p,new A.eN("assets/icons/"+q+".png",r,r),r,r,!1,B.b0,r)
 p=A.bJ().auc()
@@ -107677,7 +107677,7 @@ if(b===s){q.r!==$&&A.bV()
 q.r="\uc5b4\uc81c\uc640 \uac19\uc544\uc694"}else{r=b-s
 s=r>0?""+r+"\xb0\ub0ae\uc544\uc694":""+r*-1+"\xb0\ub192\uc544\uc694"
 q.r!==$&&A.bV()
-q.r="\uc5b4\uc81c\ubcf4\ub2e4"+s}}else{q.r!==$&&A.bV()
+q.r="\uc5b4\uc81c\ubcf4\ub2e4 "+s}}else{q.r!==$&&A.bV()
 q.r=""}if(e===0){q.f!==$&&A.bV()
 q.f="\uc815\ubcf4 \uc5c6\uc74c"
 return}if(c!==0){if(c===2){s=q.c<0?"\ub208 \ub610\ub294 \ube44":"\ube44 \ub610\ub294 \ub208"
@@ -107704,7 +107704,7 @@ if(b===s){q.r!==$&&A.bV()
 q.r="\uc5b4\uc81c\uc640 \uac19\uc544\uc694"}else{r=b-s
 s=r>0?""+r+"\xb0\ub0ae\uc544\uc694":""+r*-1+"\xb0\ub192\uc544\uc694"
 q.r!==$&&A.bV()
-q.r="\uc5b4\uc81c\ubcf4\ub2e4"+s}}else{q.r!==$&&A.bV()
+q.r="\uc5b4\uc81c\ubcf4\ub2e4 "+s}}else{q.r!==$&&A.bV()
 q.r=""}if(e===0){q.f!==$&&A.bV()
 q.f="\uc815\ubcf4 \uc5c6\uc74c"
 return}if(c!==0){if(c===2){s=q.c<0?"\ub208 \ub610\ub294 \ube44":"\ube44 \ub610\ub294 \ub208"
@@ -125615,7 +125615,7 @@ if(j.r>1025){m=r>0?r-1:0
 l.push(new A.ry(j.z,m,new A.cEX(j),102,30,i))}if(j.r>1025){m=B.c.gac($.dfQ)
 k=$.E().db
 k===$&&A.a()
-l.push(A.L(A.b([A.q("Ver. "+m+",20250620-18",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dlF(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.u,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
+l.push(A.L(A.b([A.q("Ver. "+m+",20250623-11",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dlF(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.u,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
 return A.A(i,new A.C(B.aUg,A.K(o,B.j,i,B.y,B.h,i),i),B.i,i,i,new A.a7(B.k,i,i,i,q,i,i,B.r),i,i,i,i,i,i,i,h)},
 cgH(){var s,r,q,p=this,o=null,n=p.f,m=t.p,l=A.L(A.b([B.bB0,p.coV(p.ay),B.bBb,p.aXP(p.ch,"right")],m),B.j,o,B.l,B.h),k=A.aX(40)
 k=A.al(A.A(o,o,B.i,o,o,new A.a7(B.N0.aU(0.6),o,o,k,o,o,o,B.r),o,480,o,o,o,o,o,1800),o,o)
@@ -334367,7 +334367,7 @@ $.as4=0
 $.b6q=""
 $.bdy=A.w(t.N,t.hS)
 $.dyu=null
-$.dfQ=A.b(["0.8.59","0.8.58","0.8.57","0.8.56","0.8.55","0.8.54","0.8.53","0.8.52","0.8.51","0.8.50","0.8.49","0.8.48","0.8.47","0.8.45","0.8.44","0.8.43","0.8.42","0.8.41","0.8.40"],t.s)
+$.dfQ=A.b(["0.8.60","0.8.59","0.8.58","0.8.57","0.8.56","0.8.55","0.8.54","0.8.53","0.8.52","0.8.51","0.8.50","0.8.49","0.8.48","0.8.47","0.8.45","0.8.44","0.8.43","0.8.42","0.8.41","0.8.40"],t.s)
 $.dyN=null
 $.jJ=null
 $.tS=null
