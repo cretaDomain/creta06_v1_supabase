@@ -14961,7 +14961,7 @@ case 2:return A.h(o,r)}})
 return A.j($async$px,r)},
 dxi(){var s=null,r=B.c.gad($.dgP),q=$.dmH(),p=$.E().dx
 p===$&&A.a()
-return A.q("Version "+r+" (hycop 0.6.52) \nbuild 202500707-21 \n"+q,s,s,s,s,s,s,s,p.nr(B.E,B.bn),s,s,s,s)},
+return A.q("Version "+r+" (hycop 0.6.52) \nbuild 202500707-22 \n"+q,s,s,s,s,s,s,s,p.nr(B.E,B.bn),s,s,s,s)},
 dxg(a){var s,r=null,q=A.bG().auq(),p=a?40:20
 q=A.kB(B.y,r,r,r,!1,B.b5,r,r,p,new A.eP("assets/icons/"+q+".png",r,r),r,r,!1,B.b0,r)
 p=A.bG().auq()
@@ -25571,7 +25571,7 @@ return""+s+" "+A.n(r)},
 mC(a){var s,r
 if(a.length===0)return A.b([],t.s)
 try{s=J.dQ(J.jJ(B.aq.c3(0,a),t.N))
-return s}catch(r){$.t().m(B.q,"invalid json format ("+a+")",null,null)
+return s}catch(r){$.t().m(B.A,"invalid json format ("+a+")",null,null)
 s=A.b([a],t.s)
 return s}},
 asw(a){var s,r,q=A.b([],t.s)
@@ -126037,7 +126037,7 @@ if(j.r>1025){m=r>0?r-1:0
 l.push(new A.rz(j.z,m,new A.cFH(j),102,30,i))}if(j.r>1025){m=B.c.gad($.dgP)
 k=$.E().db
 k===$&&A.a()
-l.push(A.L(A.b([A.q("Ver. "+m+",202500707-21",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dmH(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.r,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.z,B.h,i),i))
+l.push(A.L(A.b([A.q("Ver. "+m+",202500707-22",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dmH(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.r,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.z,B.h,i),i))
 return A.A(i,new A.C(B.aUn,A.K(o,B.j,i,B.z,B.h,i),i),B.i,i,i,new A.a7(B.k,i,i,i,q,i,i,B.t),i,i,i,i,i,i,i,h)},
 chA(){var s,r,q,p=this,o=null,n=p.f,m=t.p,l=A.L(A.b([B.bBe,p.cpV(p.ay),B.bBp,p.aYf(p.ch,"right")],m),B.j,o,B.l,B.h),k=A.aW(40)
 k=A.al(A.A(o,o,B.i,o,o,new A.a7(B.N2.aT(0.6),o,o,k,o,o,o,B.t),o,480,o,o,o,o,o,1800),o,o)
