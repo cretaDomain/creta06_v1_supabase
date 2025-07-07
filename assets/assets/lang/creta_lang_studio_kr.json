@@ -64,9 +64,12 @@
     "링크 설정": "linkTab"
   },
   "textMenuTabBar": {
-    "스타일 선택": "add_text",
-    "워드 패드": "word_pad",
-    "특수 문자": "special_char"
+    "나의 스타일": "my_style",
+    "공용 스타일": "shared_style"
+  },
+  "templateMenuTabBar": {
+    "나의 템플릿": "my_template",
+    "공용 템플릿": "shared_template"
   },
   "linkMenuTabBar": {
     "스타일 선택": "link_style"

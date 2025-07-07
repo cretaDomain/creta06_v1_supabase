@@ -64,9 +64,12 @@
     "LinkPrefs": "linkTab"
   },
   "textMenuTabBar": {
-    "Choose a style": "add_text",
-    "Wordpad": "word_pad",
-    "Special Characters": "special_char"
+    "MyStyle": "my_style",
+    "CommonStyle": "shared_style"
+  },
+  "templateMenuTabBar": {
+    "My Template": "my_template",
+    "Shared Template": "shared_template"
   },
   "linkMenuTabBar": {
     "Choose a style": "link_style"

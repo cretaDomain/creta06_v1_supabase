@@ -64,9 +64,12 @@
         "リンク設定": "linkTab"
     },
     "textMenuTabBar": {
-        "スタイルの選択": "add_text",
-        "ワードパッド": "word_pad",
-        "特殊文字": "special_char"
+        "マイスタイル": "my_style",
+        "共有スタイル": "shared_style"
+    },
+    "templateMenuTabBar": {
+        "マイテンプレート": "my_template",
+        "共有テンプレート": "shared_template"
     },
     "linkMenuTabBar": {
         "スタイルの選択": "link_style"
