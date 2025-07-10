@@ -797,5 +797,6 @@
   "pleaseWait": "잠시만 기다려주세요",
   "enterIDWannaShare": "공유할 사용자의 ID를 입력하세요",
   "share": "공유",
+  "videoAutoStart": "시작시 동영상 자동 재생",
   "end": "End"
 }

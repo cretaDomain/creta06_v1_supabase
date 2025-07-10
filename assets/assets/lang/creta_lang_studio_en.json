@@ -794,5 +794,6 @@
   "pleaseWait": "Please wait a moment",
   "enterIDWannaShare": "Please enter the ID of the user you want to share with",
   "share": "Share",
+  "videoAutoStart": "Video auto start",
   "end": "End"
 }

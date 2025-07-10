@@ -800,5 +800,6 @@
     "pleaseWait": "しばらくお待ちください",
     "enterIDWannaShare": "共有するユーザーのIDを入力してください",
     "share": "共有",
+    "videoAutoStart": "開始時にビデオを自動再生",
     "end": "終了"
 }
