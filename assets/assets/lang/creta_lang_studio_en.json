@@ -205,6 +205,7 @@
   "tooltipVolume": "Turn off/on sound while working",
   "tooltipEdit": "Go to on-screen edit mode",
   "tooltipText": "Edit text",
+  "tooltipRichText": "Edit rich text",
   "tooltipFrame": "Create a frame",
   "tooltipNoneEdit": "Go to screen view mode",
   "tooltipPause": "Stop or play the video while you work",

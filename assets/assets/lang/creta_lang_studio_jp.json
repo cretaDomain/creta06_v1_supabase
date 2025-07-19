@@ -205,6 +205,7 @@
     "tooltipVolume": "作業中に音をオフまたはオンにします",
     "tooltipEdit": "画面編集モードに移動",
     "tooltipText": "テキスト編集",
+    "tooltipRichText": "フォーマットテキスト編集",
     "tooltipFrame": "フレームを作成",
     "tooltipNoneEdit": "画面表示モードに移動",
     "tooltipPause": "作業中に動画を停止または再生します",

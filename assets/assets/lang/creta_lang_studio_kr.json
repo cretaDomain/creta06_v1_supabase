@@ -205,6 +205,7 @@
   "tooltipVolume": "작업하는 동안 소리를 끄거나 켭니다",
   "tooltipEdit": "화면 편집모드로 이동",
   "tooltipText": "텍스트 편집",
+  "tooltipRichText": "서식 텍스트 편집",
   "tooltipFrame": "프레임 생성",
   "tooltipNoneEdit": "화면 보기모드로 이동",
   "tooltipPause": "작업하는 동안 동영상을 정지하거나 플레이합니다",
