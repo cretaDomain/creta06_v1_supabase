@@ -713,6 +713,7 @@
   "applyStyleSelectedLink": "현재 선택된 링크에 적용",
   "borderRadius": "모서리 둥글기",
   "convertingPPT2Images": "PPT 파일을 그림으로 변환하고 있습니다",
+  "convertingPDF2Images": "PDF 파일을 그림으로 변환하고 있습니다",
   "appearInAnimation": "애니메이션으로 나타나기",
   "textOnlyRightofIcons": "아이콘 오른쪽에 글자만 표시",
   "textOnlyLeftofIcons": "아이콘 왼쪽에 글자만 표시",

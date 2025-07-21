@@ -716,6 +716,7 @@
     "applyStyleSelectedLink": "現在選択されているリンクに適用",
     "borderRadius": "角丸",
     "convertingPPT2Images": "PPTを画像に変換中",
+    "convertingPDF2Images": "PDFを画像に変換中",
     "appearInAnimation": "アニメーションで表示",
     "textOnlyRightofIcons": "アイコン右側に文字のみ表示",
     "textOnlyLeftofIcons": "アイコン左側に文字のみ表示",

@@ -711,6 +711,7 @@
   "applyStyleSelectedLink": "Apply to the currently selected link",
   "borderRadius": "Border radius",
   "convertingPPT2Images": "Converting PPT to images",
+  "convertingPDF2Images": "Converting PDF to images",
   "appearInAnimation": "Appear in animation",
   "textOnlyRightofIcons": "Text only to the right of the icon",
   "textOnlyLeftofIcons": "Text only to the left of the icon",
