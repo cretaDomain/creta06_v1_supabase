@@ -797,5 +797,7 @@
   "enterIDWannaShare": "Please enter the ID of the user you want to share with",
   "share": "Share",
   "videoAutoStart": "Video auto start",
+  "noHistory": "No publishing history.",
+  "creatingCopy": "Making a copy...",
   "end": "End"
 }

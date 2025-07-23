@@ -800,5 +800,7 @@
   "enterIDWannaShare": "공유할 사용자의 ID를 입력하세요",
   "share": "공유",
   "videoAutoStart": "시작시 동영상 자동 재생",
+  "noHistory": "발행 이력이 없습니다.",
+  "creatingCopy": "사본을 만드는 중...",
   "end": "End"
 }

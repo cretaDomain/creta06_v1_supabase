@@ -803,5 +803,7 @@
     "enterIDWannaShare": "共有するユーザーのIDを入力してください",
     "share": "共有",
     "videoAutoStart": "開始時にビデオを自動再生",
+    "noHistory": "発行履歴がありません。",
+    "creatingCopy": "コピーを作成中",
     "end": "終了"
 }
