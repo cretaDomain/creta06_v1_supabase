@@ -799,5 +799,6 @@
   "videoAutoStart": "Video auto start",
   "noHistory": "No publishing history.",
   "creatingCopy": "Making a copy...",
+  "deleteSelected": "Delete {count} selected Creta books",
   "end": "End"
 }

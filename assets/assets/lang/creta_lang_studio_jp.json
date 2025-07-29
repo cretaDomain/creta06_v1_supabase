@@ -805,5 +805,6 @@
     "videoAutoStart": "開始時にビデオを自動再生",
     "noHistory": "発行履歴がありません。",
     "creatingCopy": "コピーを作成中",
+    "deleteSelected": "選択されたクレタブック {count}個を削除",
     "end": "終了"
 }
