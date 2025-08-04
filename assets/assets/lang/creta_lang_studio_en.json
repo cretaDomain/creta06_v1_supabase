@@ -800,5 +800,6 @@
   "noHistory": "No publishing history.",
   "creatingCopy": "Making a copy...",
   "deleteSelected": "Delete {count} selected Creta books",
+  "condition": "Condition",
   "end": "End"
 }

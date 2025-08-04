@@ -806,5 +806,6 @@
     "noHistory": "発行履歴がありません。",
     "creatingCopy": "コピーを作成中",
     "deleteSelected": "選択されたクレタブック {count}個を削除",
+    "condition": "조건",
     "end": "終了"
 }

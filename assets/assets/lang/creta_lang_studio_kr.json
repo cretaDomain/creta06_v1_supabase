@@ -803,5 +803,6 @@
   "noHistory": "발행 이력이 없습니다.",
   "creatingCopy": "사본을 만드는 중...",
   "deleteSelected": "선택된 크레타 북 {count}개 삭제",
+  "condition": "조건",
   "end": "End"
 }
