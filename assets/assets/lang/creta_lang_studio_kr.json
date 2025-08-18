@@ -804,5 +804,6 @@
   "creatingCopy": "사본을 만드는 중...",
   "deleteSelected": "선택된 크레타 북 {count}개 삭제",
   "condition": "조건",
+  "fileNotExistInServer": "File이 서버에 없습니다.",
   "end": "End"
 }

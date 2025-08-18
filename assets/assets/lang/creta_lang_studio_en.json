@@ -801,5 +801,6 @@
   "creatingCopy": "Making a copy...",
   "deleteSelected": "Delete {count} selected Creta books",
   "condition": "Condition",
+  "fileNotExistInServer": "File does not exist in the server.",
   "end": "End"
 }

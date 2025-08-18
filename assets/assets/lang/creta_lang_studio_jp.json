@@ -807,5 +807,6 @@
     "creatingCopy": "コピーを作成中",
     "deleteSelected": "選択されたクレタブック {count}個を削除",
     "condition": "조건",
+    "fileNotExistInServer": "ファイルがサーバーにありません。",
     "end": "終了"
 }
