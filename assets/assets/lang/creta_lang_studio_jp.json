@@ -808,5 +808,6 @@
     "deleteSelected": "選択されたクレタブック {count}個を削除",
     "condition": "조건",
     "fileNotExistInServer": "ファイルがサーバーにありません。",
+    "webQRPaste": "ウェブアドレスQRコードで貼り付け",
     "end": "終了"
 }

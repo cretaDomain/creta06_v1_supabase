@@ -802,5 +802,6 @@
   "deleteSelected": "Delete {count} selected Creta books",
   "condition": "Condition",
   "fileNotExistInServer": "File does not exist in the server.",
+  "webQRPaste": "Web URL QRCODE Paste",
   "end": "End"
 }
