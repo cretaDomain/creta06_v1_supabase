@@ -806,7 +806,7 @@
   "condition": "조건",
   "fileNotExistInServer": "File이 서버에 없습니다.",
   "webQRPaste": "웹주소 QRCODE 로 붙여넣기",
-  "createRollbackPoint": "롤백포인트 만들기",
-  "editRollbackPoint": "롤백포인트에서 편집하기",
+  "saveForQuickLoad": "빠른 로딩을 위해 저장하기",
+  "quickLoad": "빠른 로딩하기",
   "end": "End"
 }

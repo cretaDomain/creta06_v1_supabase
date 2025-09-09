@@ -803,7 +803,7 @@
   "condition": "Condition",
   "fileNotExistInServer": "File does not exist in the server.",
   "webQRPaste": "Web URL QRCODE Paste",
-  "createRollbackPoint": "Create rollback point",
-  "editRollbackPoint": "Edit rollback point",
+  "saveForQuickLoad": "Save for quick load",
+  "quickLoad": "Quick load",
   "end": "End"
 }
