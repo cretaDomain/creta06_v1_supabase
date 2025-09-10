@@ -805,5 +805,6 @@
   "webQRPaste": "Web URL QRCODE Paste",
   "saveForQuickLoad": "Save for quick load",
   "quickLoad": "Quick load",
+  "quickLoadConfirm": "{when} saved Creta book will be opened. Any modifications made after that will be lost. Are you sure you want to open this Creta book?",
   "end": "End"
 }
