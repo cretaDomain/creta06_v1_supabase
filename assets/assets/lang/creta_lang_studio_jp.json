@@ -103,13 +103,9 @@
         "Music": "music"
     },
     "newsCategories": {
-        "一般": "general",
-        "ビジネス": "business",
-        "entertainment": "entertainment",
-        "フィットネス": "health",
-        "science": "science",
-        "スポーツ": "sports",
-        "技術": "technology"
+        "Headline News Korea": "korea",
+        "Headline News Japan": "japan",
+        "Headline News USA": "usa"
     },
     "menuStick": [
         "ページ",
@@ -812,5 +808,12 @@
     "saveForQuickLoad": "ファイルをロードするために保存",
     "quickLoad": "ファイルをロード",
     "quickLoadConfirm": "{when} に保存されたクレタブックが開かれます。 その後に修正された内容はすべて消えます。 本当にこのクレタブックを開きますか?",
+    "counter": "カウンター",
+    "etc": "その他",
+    "NumberOfNews": "ニュースの行数",
+    "ShowTitle": "タイトルを表示",
+    "leadingIcon": "リーディングアイコン",
+    "showTime": "時間を表示する",
+    "showSource": "ソースを表示",
     "end": "終了"
 }

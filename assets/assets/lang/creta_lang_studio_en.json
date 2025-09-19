@@ -103,13 +103,9 @@
     "Music": "music"
   },
   "newsCategories": {
-    "General": "general",
-    "Business": "business",
-    "Entertainment": "entertainment",
-    "Health": "health",
-    "Science": "science",
-    "Sports": "sports",
-    "Technology": "technology"
+    "Headline News Korea": "korea",
+    "Headline News Japan": "japan",
+    "Headline News USA": "usa"
   },
   "menuStick": [
     "page",
@@ -806,5 +802,12 @@
   "saveForQuickLoad": "Save for quick load",
   "quickLoad": "Quick load",
   "quickLoadConfirm": "{when} saved Creta book will be opened. Any modifications made after that will be lost. Are you sure you want to open this Creta book?",
+  "counter": "Counter",
+  "etc": "Etc",
+  "NumberOfNews": "Number of news",
+  "ShowTitle": "Show title",
+  "leadingIcon": "Leading icon",
+  "showTime": "Show Time",
+  "showSource": "Show source",
   "end": "End"
 }

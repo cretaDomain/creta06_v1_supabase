@@ -103,13 +103,9 @@
     "뮤직": "music"
   },
   "newsCategories": {
-    "일반": "general",
-    "사업": "business",
-    "연예": "entertainment",
-    "헬스": "health",
-    "과학": "science",
-    "스포츠": "sports",
-    "기술": "technology"
+    "Headline News Korea": "korea",
+    "Headline News Japan": "japan",
+    "Headline News USA": "usa"
   },
   "menuStick": [
     "페이지",
@@ -809,5 +805,12 @@
   "saveForQuickLoad": "빠른 로딩을 위해 저장하기",
   "quickLoad": "빠른 로딩하기",
   "quickLoadConfirm": "{when} 에 저장된 크레타북이 오픈됩니다. 이후에 수정된 사항이 있다면 이는 모두 사라집니다. 정말로 이 크레타 북을 오픈하시겠습니까?",
+  "counter": "카운터",
+  "etc": "기타",
+  "NumberOfNews": "뉴스 갯수",
+  "ShowTitle": "제목 보이기",
+  "leadingIcon": "리딩 아이콘",
+  "showTime": "시간 보이기",
+  "showSource": "출처 보이기",
   "end": "End"
 }
