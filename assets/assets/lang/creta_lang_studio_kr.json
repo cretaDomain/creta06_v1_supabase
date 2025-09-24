@@ -812,5 +812,6 @@
   "leadingIcon": "리딩 아이콘",
   "showTime": "시간 보이기",
   "showSource": "출처 보이기",
+  "showWeekday": "요일 보이기",
   "end": "End"
 }

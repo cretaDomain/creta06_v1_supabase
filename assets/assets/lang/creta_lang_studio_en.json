@@ -809,5 +809,6 @@
   "leadingIcon": "Leading icon",
   "showTime": "Show Time",
   "showSource": "Show source",
+  "showWeekday": "Show weekday",
   "end": "End"
 }
