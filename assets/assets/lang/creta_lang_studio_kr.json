@@ -813,5 +813,7 @@
   "showTime": "시간 보이기",
   "showSource": "출처 보이기",
   "showWeekday": "요일 보이기",
+  "ProgramRegister": "프로그램 등록",
+  "ProgramList": "프로그램 목록",
   "end": "End"
 }
