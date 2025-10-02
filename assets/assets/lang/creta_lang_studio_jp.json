@@ -817,5 +817,6 @@
     "showSource": "ソースを表示",
     "showWeekday": "曜日を表示",
     "ProgramRegister": "プログラム登録",
+    "clockBgColor": "時計の背景色",
     "end": "終了"
 }

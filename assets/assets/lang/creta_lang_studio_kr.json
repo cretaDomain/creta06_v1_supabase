@@ -815,5 +815,6 @@
   "showWeekday": "요일 보이기",
   "ProgramRegister": "프로그램 등록",
   "ProgramList": "프로그램 목록",
+  "clockBgColor": "시계 배경색",
   "end": "End"
 }

@@ -811,5 +811,6 @@
   "showSource": "Show source",
   "showWeekday": "Show weekday",
   "ProgramRegister": "Program Register",
+  "clockBgColor": "Clock background color",
   "end": "End"
 }
