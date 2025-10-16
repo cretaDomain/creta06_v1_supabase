@@ -812,5 +812,9 @@
   "showWeekday": "Show weekday",
   "ProgramRegister": "Program Register",
   "clockBgColor": "Clock background color",
+  "randomImage": "Random image insert",
+  "transparentImage": "Transparent image insert",
+  "transitionDuration": "Transition duration",
+  "videoPlayTime": "Video play time",
   "end": "End"
 }

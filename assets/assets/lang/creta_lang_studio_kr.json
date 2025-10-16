@@ -816,5 +816,9 @@
   "ProgramRegister": "프로그램 등록",
   "ProgramList": "프로그램 목록",
   "clockBgColor": "시계 배경색",
+  "randomImage": "랜덤 이미지 넣기",
+  "transparentImage": "투명 이미지 넣기",
+  "transitionDuration": "전환 시간",
+  "videoPlayTime": "동영상 재생 시간",
   "end": "End"
 }
