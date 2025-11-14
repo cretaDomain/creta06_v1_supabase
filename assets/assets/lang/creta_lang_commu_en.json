@@ -73,7 +73,7 @@
   "termsAgreementRequired": "(Mandatory) Agree to Terms of Service",
   "marketingAgreementOptional": "(Optional) Agree to receive marketing info.",
   "keepLoggedIn": "Keep me logged in",
-  "loginedIn": "Logged in",
+  "loginedIn": "Login",
   "loginFailure": "Login failed. Please check your registered information.",
   "googleLoginFailure": "Login failed using Google account.",
   "emailAlreadyRegistered": "This email address is already registered.",
@@ -234,6 +234,6 @@
   "copyComplete": "Copy completed",
   "disabledUser": "This account has been disabled.",
   "ContactYourAdministrator": "Please contact your administrator.",
-  "ViewMore" : "View More...",
+  "ViewMore": "View More...",
   "endOfList": "End of List"
 }

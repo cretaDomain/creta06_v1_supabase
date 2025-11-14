@@ -817,5 +817,7 @@
   "transitionDuration": "Transition duration",
   "videoPlayTime": "Video play time",
   "languageChange": "Language change",
+  "favoriteShare": "Favorite share user",
+  "showConnectedOnly": "Show connected only",
   "end": "End"
 }

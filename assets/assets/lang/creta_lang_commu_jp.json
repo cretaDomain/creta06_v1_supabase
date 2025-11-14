@@ -73,7 +73,7 @@
     "termsAgreementRequired": "(必須) Creta 利用規約への同意",
     "marketingAgreementOptional": "(選択) マーケティング情報配信同意",
     "keepLoggedIn": "ログイン状態を保持",
-    "loginedIn": "ログイン済み",
+    "loginedIn": "ログイン",
     "loginFailure": "ログインに失敗しました。登録情報をご確認ください。",
     "googleLoginFailure": "Google アカウントでのログインに失敗しました。",
     "emailAlreadyRegistered": "既に登録されたメールアドレスです。",
@@ -235,6 +235,6 @@
     "copyComplete": "コピーが完了しました",
     "disabledUser": "このアカウントは無効です。",
     "ContactYourAdministrator": "管理者にお問い合わせください。",
-    "ViewMore" : "もっと見る...",
+    "ViewMore": "もっと見る...",
     "end": ""
 }

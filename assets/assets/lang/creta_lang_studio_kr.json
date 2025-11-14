@@ -821,5 +821,7 @@
   "transitionDuration": "전환 시간",
   "videoPlayTime": "동영상 재생 시간",
   "languageChange": "언어 변경",
+  "favoriteShare": "자주쓰는 공유자",
+  "showConnectedOnly": "연결된 장치만",
   "end": "End"
 }
