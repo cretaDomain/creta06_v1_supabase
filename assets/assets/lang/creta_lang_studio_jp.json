@@ -825,5 +825,7 @@
     "languageChange": "言語変更",
     "favoriteShare": "よく使う共有者",
     "showConnectedOnly": "接続されたデバイスのみ",
+    "Hashtags": "ハッシュタグ",
+    "addTagAndPressEnter": "ハッシュタグを追加してEnterキーを押してください",
     "end": "終了"
 }

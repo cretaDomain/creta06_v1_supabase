@@ -823,5 +823,7 @@
   "languageChange": "언어 변경",
   "favoriteShare": "자주쓰는 공유자",
   "showConnectedOnly": "연결된 장치만",
+  "Hashtags": "해시태그",
+  "addTagAndPressEnter": "해시태그를 입력하고 엔터키를 누르세요.",
   "end": "End"
 }
