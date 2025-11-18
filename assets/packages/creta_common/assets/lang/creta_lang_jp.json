@@ -36,8 +36,8 @@
         "ビューア"
     ],
     "publishBookPermissionFilter": [
-        "読む権利",
-        "コピー権"
+        "閲覧可",
+        "複製可"
     ],
     "accountMenu": [
         "マイページ",
