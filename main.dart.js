@@ -16081,7 +16081,7 @@ case 2:return A.h(o,r)}})
 return A.j($async$qG,r)},
 dUP(){var s=null,r=B.c.gac($.aCD),q=$.dJU(),p=$.F().dx
 p===$&&A.a()
-return A.p("Version "+r+" (hycop 0.6.61) \nbuild 20251208-15 \n"+q,s,s,s,s,s,s,s,p.lS(B.F,B.bn),s,s,s,s)},
+return A.p("Version "+r+" (hycop 0.6.61) \nbuild 20251209-09 \n"+q,s,s,s,s,s,s,s,p.lS(B.F,B.bn),s,s,s,s)},
 dUN(a){var s,r=null,q=A.bn().az9(),p=a?40:20
 q=A.kL(B.A,r,r,r,!1,B.bh,r,r,!1,p,new A.eV("assets/icons/"+q+".png",r,r),r,r,!1,B.b8,r)
 p=A.bn().az9()
@@ -136100,7 +136100,7 @@ if(j.r>1025){m=r>0?r-1:0
 l.push(new A.tJ(j.z,m,new A.cYV(j),102,30,i))}if(j.r>1025){m=B.c.gac($.aCD)
 k=$.F().db
 k===$&&A.a()
-l.push(A.L(A.b([A.p("Ver. "+m+",20251208-15",i,i,i,i,i,i,i,k,i,i,i,i),A.p($.dJU(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.t,i,B.E,B.h,B.m))}o.push(new A.x(n,48,A.G(l,B.j,i,B.D,B.h,0,i),i))
+l.push(A.L(A.b([A.p("Ver. "+m+",20251209-09",i,i,i,i,i,i,i,k,i,i,i,i),A.p($.dJU(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.t,i,B.E,B.h,B.m))}o.push(new A.x(n,48,A.G(l,B.j,i,B.D,B.h,0,i),i))
 return A.z(i,new A.C(B.b0u,A.G(o,B.j,i,B.D,B.h,0,i),i),B.i,i,i,new A.a2(B.l,i,i,i,q,i,i,B.r),i,i,i,i,i,i,i,h)},
 cuY(){var s,r,q,p=this,o=null,n=p.f,m=t.p,l=A.L(A.b([B.bP0,p.cE6(p.ay),B.bPb,p.b4g(p.ch,"right")],m),B.j,o,B.k,B.h,B.m),k=A.ax(40)
 k=A.af(A.z(o,o,B.i,o,o,new A.a2(B.PC.aF(0.6),o,o,k,o,o,o,B.r),o,480,o,o,o,o,o,1800),o,o)
@@ -148237,7 +148237,7 @@ p===$&&A.a()
 p=A.R9(p,h,g)}else p=e
 p=new A.a2(h,e,e,e,d,p,e,B.r)
 d=p}else d=e
-r.push(new A.adg(m,l,d,o))
+r.push(A.z(e,new A.adg(m,l,d,o),B.i,B.q,e,e,e,e,e,e,e,e,e,e))
 if(!$.bW)r.push(f.bWw())
 q.push(new A.dT(B.A,e,e,A.L(r,B.j,e,B.E,B.h,B.m),e))
 d=f.a
@@ -358912,7 +358912,7 @@ $.axn=0
 $.bez=""
 $.bm1=A.w(t.N,t.hS)
 $.dXd=null
-$.aCD=A.b(["0.9.33","0.9.32","0.9.31","0.9.30","0.9.29","0.9.28","0.9.27","0.9.26","0.9.25","0.9.24","0.9.23","0.9.22"],t.s)
+$.aCD=A.b(["0.9.34","0.9.33","0.9.32","0.9.31","0.9.30"],t.s)
 $.dXx=null
 $.kq=null
 $.vj=null
