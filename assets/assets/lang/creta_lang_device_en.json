@@ -42,12 +42,12 @@
     "other"
   ],
   "usageHostFilter": [
-    "all",
+    "usage status (all)",
     "used",
     "unused"
   ],
   "connectedHostFilter": [
-    "all",
+    "connection status (all)",
     "connected",
     "unconnected"
   ],
@@ -188,5 +188,10 @@
   "pleaseEnterVncId": "Please enter a Vnc ID",
   "vncIdRange": "Vnc ID should be (1000 - 65535)",
   "UseVnc": "Use Vnc",
+  "listStyle": "List Style",
+  "gridStyle": "Grid Style",
+  "refresh": "Refresh",
+  "addNewDevice": "Add New Device",
+  "deviceSync": "Device Sync",
   "end": "End"
 }

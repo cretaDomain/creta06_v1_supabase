@@ -42,12 +42,12 @@
     "その他"
   ],
   "usageHostFilter": [
-    "全体",
+    "使用状態別(全体)",
     "使用",
     "未使用"
   ],
   "connectedHostFilter": [
-    "全体",
+    "接続状態別(全体)",
     "接続",
     "未接続"
   ],
@@ -188,5 +188,10 @@
   "pleaseEnterVncId": "VNC IDを入力してください",
   "vncIdRange": "VNC IDは1000から65535の間である必要があります",
   "UseVnc": "VNCを使用",
+  "listStyle": "リスト形式",
+  "gridStyle": "グリッド形式",
+  "refresh": "更新",
+  "addNewDevice": "新しいデバイスの追加",
+  "deviceSync": "デバイス同期",
   "end": "End"
 }

@@ -42,12 +42,12 @@
         "기타"
     ],
     "usageHostFilter": [
-        "전체",
+        "사용상태별(전체)",
         "사용",
         "미사용"
     ],
     "connectedHostFilter": [
-        "전체",
+        "연결상태별(전체)",
         "연결",
         "미연결"
     ],
@@ -189,5 +189,10 @@
     "pleaseEnterVncId": "VNC ID를 입력하세요",
     "vncIdRange": "VNC ID는 1000에서 65535 사이여야 합니다",
     "UseVnc": "VNC 사용",
+    "listStyle": "리스트 형식",
+    "gridStyle": "그리드 형식",
+    "refresh": "새로고침",
+    "addNewDevice": "새 디바이스 추가",
+    "deviceSync": "디바이스 동기화",
     "END": ""
 }
