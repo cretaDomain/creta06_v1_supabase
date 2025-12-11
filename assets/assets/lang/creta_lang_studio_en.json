@@ -845,5 +845,6 @@
   "error": "Error",
   "gridSizeError": "Both columns and rows must be between 1 and 12.",
   "deleteMyStyle": "Delete my style",
+  "AITranslate": "AI Translate",
   "end": "End"
 }

@@ -848,5 +848,6 @@
   "no": "아니오",
   "error": "오류",
   "gridSizeError": "가로와 세로 갯수는 1에서 12 사이여야 합니다.",
+  "AITranslate": "AI 번역",
   "end": "End"
 }
