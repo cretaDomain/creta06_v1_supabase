@@ -846,5 +846,14 @@
   "gridSizeError": "Both columns and rows must be between 1 and 12.",
   "deleteMyStyle": "Delete my style",
   "AITranslate": "AI Translate",
+  "studioTitle": "Studio",
+  "newUserCreated": "New User Created",
+  "addNewUser": "Add New User",
+  "showTeam": "Show Team",
+  "refresh": "Refresh",
+  "addNewTeam": "Add New Team",
+  "listStyle": "List Style",
+  "gridStyle": "Grid Style",
+  "newTeamCreated": "New Team Created",
   "end": "End"
 }
