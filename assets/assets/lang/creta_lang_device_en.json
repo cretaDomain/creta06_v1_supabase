@@ -291,5 +291,8 @@
   "colRequestedBook2": "Requested Book2",
   "colPlayingBook2": "Playing Book2",
   "colRequestedBook1Time": "Requested Book1 Time",
+  "hideColumn": "Hide Column",
+  "showAllColumns": "Show All Columns",
+  "showColumn": "Show",
   "end": "End"
 }

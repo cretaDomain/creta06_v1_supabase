@@ -763,7 +763,7 @@
   "newFolder": "새 폴더",
   "folderName": "폴더 이름",
   "folderNamePlaceholder": "폴더 이름을 입력하세요",
-  "folder": "폴더",
+  "folder": "루트 폴더",
   "createNewFolder": "새 폴더 만들기",
   "deleteFolder": "폴더 삭제",
   "deleteFolderConfirm": "'{folderName}' 폴더와 그 안의 모든 하위 폴더를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
@@ -870,5 +870,8 @@
   "cancel": "취소",
   "openFolder": "폴더 열기",
   "downloadLocationGuide": "파일이 브라우저의 다운로드 폴더에 저장되었습니다.\n브라우저 설정에서 지정한 위치를 확인해주세요.",
+  "sharedFolder": "共有フォルダ",
+  "listView": "리스트 보기",
+  "gridView": "그리드 보기",
   "end": "End"
 }

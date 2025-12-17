@@ -292,5 +292,8 @@
     "colRequestedBook2": "요청북2",
     "colPlayingBook2": "재생북2",
     "colRequestedBook1Time": "요청북1 시간",
+    "hideColumn": "컬럼 숨기기",
+    "showAllColumns": "모든 컬럼 보이기",
+    "showColumn": "보이기",
     "END": ""
 }

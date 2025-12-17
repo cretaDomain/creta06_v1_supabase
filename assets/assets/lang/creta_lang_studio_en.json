@@ -763,7 +763,7 @@
   "newFolder": "New Folder",
   "folderName": "Folder Name",
   "folderNamePlaceholder": "Please enter a folder name",
-  "folder": "Folder",
+  "folder": "Root Folder",
   "createNewFolder": "Create new folder",
   "deleteFolder": "Delete folder",
   "deleteFolderConfirm": "'{folderName}' folder and all its subfolders will be deleted. This operation is irreversible.",
@@ -869,5 +869,8 @@
   "cancel": "Cancel",
   "openFolder": "Open Folder",
   "downloadLocationGuide": "The file has been saved to your browser's download folder.\nPlease check the location specified in your browser settings.",
+  "sharedFolder": "Shared Folder",
+  "listView": "List View",
+  "gridView": "Grid View",
   "end": "End"
 }
