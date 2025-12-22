@@ -291,6 +291,7 @@
   "colRequestedBook2": "要求ブック2",
   "colPlayingBook2": "再生ブック2",
   "colRequestedBook1Time": "要求ブック1時間",
+  "colPlayingBook1Time": "再生ブック1時間",
   "hideColumn": "列を非表示",
   "showAllColumns": "すべての列を表示",
   "showColumn": "表示",
