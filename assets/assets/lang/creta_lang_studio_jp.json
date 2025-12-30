@@ -883,5 +883,6 @@
     "gridView": "グリッド形式",
     "PlayingTime": "再生時間",
     "insertContentsInMainFrame": "このメインフレームにコンテンツを挿入してください",
+    "mainFrameIsSetAutomatically": "メインフレームが設定されていないため、自動的に設定されました。 再度発行してください。",
     "end": "終了"
 }

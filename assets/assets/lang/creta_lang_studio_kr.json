@@ -878,5 +878,6 @@
   "gridView": "그리드 보기",
   "PlayingTime": "재생 시간",
   "insertContentsInMainFrame": "이 메인 프레임에 콘텐츠를 넣어 주세요",
+  "mainFrameIsSetAutomatically": "메인 프레임이 설정되어 있지 않아, 자동으로 설정되었습니다. 다시 발행해 주세요.",
   "end": "End"
 }

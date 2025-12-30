@@ -877,5 +877,6 @@
   "gridView": "Grid View",
   "PlayingTime": "Playing Time",
   "insertContentsInMainFrame": "Please insert contents into this main frame",
+  "mainFrameIsSetAutomatically": "The main frame is not set, so it has been automatically set. Please publish again.",
   "end": "End"
 }
