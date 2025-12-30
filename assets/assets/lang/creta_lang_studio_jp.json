@@ -100,7 +100,8 @@
         "ゲージ": "gauges",
         "為替レート計算": "currency exchange",
         "今日の英語 ": "daily quote",
-        "Music": "music"
+        "Music": "music",
+        "殿堂": "human"
     },
     "newsCategories": {
         "Headline News Korea": "korea",
@@ -541,6 +542,8 @@
         "内側から外側への切り替え"
     ],
     "weather": "天気ウィジェット",
+    "human": "殿堂ウィジェット",
+    "addHumanWidget": "殿堂ウィジェットを追加",
     "clockandWatch": "時計とストップウォッチ",
     "camera": "カメラ",
     "map": "地図",

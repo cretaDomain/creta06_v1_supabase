@@ -100,7 +100,8 @@
     "게이지": "gauges",
     "환율계산": "currency exchange",
     "오늘 영어 ": "daily quote",
-    "뮤직": "music"
+    "뮤직": "music",
+    "명예의 전당": "human"
   },
   "newsCategories": {
     "Headline News Korea": "korea",
@@ -538,6 +539,8 @@
     "안에서 밖으로 전환"
   ],
   "weather": "날씨 위젯",
+  "human": "명예의 전당 위젯",
+  "addHumanWidget": "명예의 전당 위젯 추가",
   "clockandWatch": "시계와 스톱워치",
   "camera": "카메라",
   "map": "맵",

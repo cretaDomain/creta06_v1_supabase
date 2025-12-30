@@ -100,7 +100,8 @@
     "gauages": "gauges",
     "Currency exchange": "currency exchange",
     "Today's English ": "daily quote",
-    "Music": "music"
+    "Music": "music",
+    "Hall of Fame": "human"
   },
   "newsCategories": {
     "Headline News Korea": "korea",
@@ -536,6 +537,8 @@
     "Transition from inside to outside"
   ],
   "weather": "Weather widget",
+  "human": "Hall of Fame widget",
+  "addHumanWidget": "Add Hall of Fame Widget",
   "clockandWatch": "Clock and stopwatch",
   "camera": "Camera",
   "map": "Map",
