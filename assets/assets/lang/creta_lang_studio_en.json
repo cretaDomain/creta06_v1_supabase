@@ -876,5 +876,6 @@
   "listView": "List View",
   "gridView": "Grid View",
   "PlayingTime": "Playing Time",
+  "insertContentsInMainFrame": "Please insert contents into this main frame",
   "end": "End"
 }
