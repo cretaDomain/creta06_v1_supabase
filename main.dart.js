@@ -117041,13 +117041,13 @@ A.d_h.prototype={
 $0(){this.a.d=!1},
 $S:0}
 A.d_k.prototype={
-$2(a,b){var s,r,q,p=null,o=b.b,n=this.a,m=n.a,l=m.e,k=o<60*l,j=o<100*l
-if(k)s=30*l
-else s=j?50*l:78.4*l
-if(k)r=15*l
-else r=j?25*l:39.2*l
-if(k)q=2*l
-else q=j?4*l:8*l
+$2(a,b){var s,r,q,p=null,o=b.b,n=this.a,m=n.a,l=m.e,k=60*l,j=o<k,i=o<100*l
+if(j)s=36*l
+else s=i?k:94*l
+if(j)r=18*l
+else r=i?30*l:47*l
+if(j)q=2*l
+else q=i?4*l:8*l
 m=n.aXn(s,B.as,B.i5,r,m.f)
 return A.nz(A.E(A.b([m,new A.x(q,p,p,p),n.aXn(s,B.aC,B.tw,r,n.a.r!=null?new A.d_j(n,a):p)],t.p),B.i,p,B.E,B.aa,0,p),B.v,p)},
 $S:1198}
