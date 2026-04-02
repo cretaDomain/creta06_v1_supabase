@@ -236,5 +236,6 @@
   "ContactYourAdministrator": "Please contact your administrator.",
   "ViewMore": "View More...",
   "latestBook": "Latest CretaBook",
+  "cantAddSameCretabookToPlaylist" : "This Creta Book is already in the playlist.",
   "endOfList": "End of List"
 }

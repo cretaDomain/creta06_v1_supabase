@@ -237,5 +237,6 @@
   "ContactYourAdministrator": "管理者にお問い合わせください",
   "ViewMore": "もっと見る...",
   "latestBook": "最新のクレタブック",
+  "cantAddSameCretabookToPlaylist" : "このクレタブックはすでにプレイリストに登録されています",
   "end": ""
 }

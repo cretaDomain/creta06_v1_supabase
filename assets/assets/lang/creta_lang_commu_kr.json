@@ -239,5 +239,6 @@
   "ContactYourAdministrator": "관리자에게 문의하세요.",
   "ViewMore" : "더 보기...",
   "latestBook": "최신 크레타북",
+  "cantAddSameCretabookToPlaylist" : "이 크레타북은 이미 재생목록에 등록되어있습니다.",
   "end": "끝"
 }
