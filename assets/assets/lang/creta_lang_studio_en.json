@@ -895,5 +895,7 @@
   "fridayShort": "Fri",
   "saturdayShort": "Sat",
   "sundayShort": "Sun",
+  "nowIsPublishing": "Publishing is in progress.",
+  "dontCloseThisDialog": "Please do not close the dialog window.",
   "end": "End"
 }

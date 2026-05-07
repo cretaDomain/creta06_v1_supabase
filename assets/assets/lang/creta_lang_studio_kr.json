@@ -896,5 +896,7 @@
   "fridayShort": "금",
   "saturdayShort": "토",
   "sundayShort": "일",
+  "nowIsPublishing": "발행이 진행 중입니다.",
+  "dontCloseThisDialog": "창을 닫지 마시기 바랍니다.",
   "end": "End"
 }

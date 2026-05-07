@@ -901,5 +901,7 @@
     "fridayShort": "金",
     "saturdayShort": "土",
     "sundayShort": "日",
+    "nowIsPublishing": "発行が進行中です。",
+    "dontCloseThisDialog": "ダイアログを閉じないでください。",
     "end": "終了"
 }
