@@ -643,12 +643,14 @@
   "whereToLink": "링크된 콘텐츠",
   "tooltipPin": "페이지 고정",
   "tooltipRolling": "페이지 롤링",
+  "NoPages": "페이지가 하나도 없습니다. 적어도 하나 이상의 페이지가 필요합니다.",
   "WhichOneIsMainFrame": "💡 왼쪽 귀퉁이에 시계 모양의 아이콘이 있는 프레임이 메인 프레임입니다. 이곳에는 반드시 콘텐츠가 하나 이상 있어야 합니다.",
   "WhatIsMainFrame": "💡 메인 프레임이란, 페이지에서 가장 중요한 프레임으로서, 페이지가 다음으로 넘어가는 시간을 결정하는 페이지를 말합니다.",
   "HowToSetMainFrame": "💡 메인 프레임을 설정하는 방법은, 페이지에서 가장 중요한 프레임을 선택한 후, 그림과 같이 오른쪽 속성창에서, '메인 프레임으로 설정' 버튼을 클릭해 주세요.",
-  "NoPages": "페이지가 하나도 없습니다. 적어도 하나 이상의 페이지가 필요합니다.",
   "NoContentsInMainFrame": "메인 프레임에 콘텐츠가 없습니다.  메인 프레임에는 적어도 하나 이상의 콘텐츠가 있어야 합니다.",
   "OneMainFrameShouldExistPerPage": "메인 프레임이 없습니다.각 페이지에는 메인 프레임이 한개씩 있어야 합니다.",
+  "MainFrameShouldHaveContents": "There is no main frame. There must be at least one content in the main frame.",
+  "TryAgainAfterInsertContentsInEmptyMainFrame": "Please specify a main frame, put content into the main frame, and try again.",
   "windowsDoesNotSupportWebView": "윈도우즈에서는 미리보기에서만 웹페이지를 볼 수 있습니다.",
   "noIconClickContents": "아이콘 없이 콘텐츠 클릭으로 연결",
   "noIconSyncContents": "아이콘 없이 콘텐츠 끼리 동기화",
@@ -898,5 +900,7 @@
   "sundayShort": "일",
   "nowIsPublishing": "발행이 진행 중입니다.",
   "dontCloseThisDialog": "창을 닫지 마시기 바랍니다.",
+  "notAllowedMultipleUploading": "업로드가 완료된 후 다시 시도하시기 바랍니다.",
+  "initializeUpading": "업로딩 중비중...",
   "end": "End"
 }
