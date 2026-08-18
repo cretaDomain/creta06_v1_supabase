@@ -752,7 +752,7 @@
   "gauges": "게이지",
   "duplicate": "복사&붙여넣기(duplicate)",
   "textInput": "텍스트 입력",
-  "fileSizeTooLarge": "파일 크기가 2GB 를 넘을 수 없습니다",
+  "fileSizeTooLarge": "파일 크기가 4GB 를 넘을 수 없습니다",
   "copyLink": "링크 복사",
   "deleteServerFile": "서버에서 파일 삭제",
   "confirmDeleteServerFile": "서버에서 파일을 완전히 삭제하시겠습니까?\n이 작업은 되돌릴 수 없습니다.",

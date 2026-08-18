@@ -757,7 +757,7 @@
     "gauges": "ゲージ",
     "duplicate": "複製(duplicate)",
     "textInput": "テキスト入力",
-    "fileSizeTooLarge": "2GB を超えることはできません",
+    "fileSizeTooLarge": "4GBを超えることはできません",
     "copyLink": "リンクをコピー",
     "deleteServerFile": "サーバーからファイルを削除",
     "confirmDeleteServerFile": "サーバーからファイルを完全に削除しますか？\nこの操作は元に戻せません。",

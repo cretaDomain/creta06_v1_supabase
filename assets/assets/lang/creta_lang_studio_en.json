@@ -752,7 +752,7 @@
   "gauges": "Gauges",
   "duplicate": "duplicate",
   "textInput": "Text input",
-  "fileSizeTooLarge": "File size cannot exceed 2GB",
+  "fileSizeTooLarge": "File size cannot exceed 4GB",
   "copyLink": "Copy link",
   "deleteServerFile": "Delete file from server",
   "confirmDeleteServerFile": "Are you sure you want to completely delete the file from the server?\nThis operation is irreversible.",

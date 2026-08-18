@@ -17013,7 +17013,7 @@ case 2:return A.h(o,r)}})
 return A.j($async$pC,r)},
 e00(){var s=null,r=B.c.gac($.aDM),q=$.dQ8(),p=$.G().dx
 p===$&&A.a()
-return A.n("Version "+r+" (hycop 0.6.65) \nbuild 2026071401 \n"+q,s,s,s,s,s,s,s,p.lo(B.G,B.aY),s,s,s,s)},
+return A.n("Version "+r+" (hycop 0.6.66) \nbuild 2026081401 \n"+q,s,s,s,s,s,s,s,p.lo(B.G,B.aY),s,s,s,s)},
 dM9(a){var s,r=null,q=A.be().aAa(),p=a?40:20
 q=A.kZ(B.A,r,r,r,!1,B.bo,r,r,!1,p,new A.f_("assets/icons/"+q+".png",r,r),r,r,!1,B.be,r)
 p=A.be().aAa()
@@ -124328,38 +124328,39 @@ s=A.l(c)+"  "+$.Si+"/"+$.akr}else{c=c.gbc(0)
 r=c.b.$1(J.h7(c.a)).a
 c=$.Fy.gbc(0)
 q=c.b.$1(J.h7(c.a)).b
-B.e.an(r/1024)
-p=r>0?B.e.an(q*100/r):0
+p=B.e.an(r/1024)
+if(r>0){c=q*100/r
+o=p<=512e3?""+B.e.an(c):B.e.b_(c,1)}else o="0"
 c=J.c($.b1,e)
 c.toString
-s=A.l(c)+"  "+$.Si+"/"+$.akr+" "+p+"%"}c=g.d
-o=A.aML(B.y,6)
-n=A.ai(16.4)
-if(g.e)m=B.qP
-else{m=$.G().fr
-m===$&&A.a()
-l=t.p
-m=A.b([A.n(s,f,f,f,f,f,f,f,m,f,f,f,f)],l)
-k=$.Fy
-if(k.a!==0){k=k.gbc(0)
-j=B.e.an(k.b.$1(J.h7(k.a)).a/1024)
-i=j>=1024?""+B.e.an(j/1024)+" MB":""+j+" KB"
-k=$.Fy
-k=A.l(new A.bh(k,A.z(k).j("bh<1>")).gac(0))
+s=A.l(c)+"  "+$.Si+"/"+$.akr+" "+o+"%"}c=g.d
+n=A.aML(B.y,6)
+m=A.ai(16.4)
+if(g.e)l=B.qP
+else{l=$.G().fr
+l===$&&A.a()
+k=t.p
+l=A.b([A.n(s,f,f,f,f,f,f,f,l,f,f,f,f)],k)
+j=$.Fy
+if(j.a!==0){j=j.gbc(0)
+p=B.e.an(j.b.$1(J.h7(j.a)).a/1024)
+i=p>=1024?""+B.e.an(p/1024)+" MB":""+p+" KB"
+j=$.Fy
+j=A.l(new A.bh(j,A.z(j).j("bh<1>")).gac(0))
 h=$.G().dx
 h===$&&A.a()
-m.push(A.y(f,A.aa(A.n(k+" ("+i+")",f,f,2,B.Q,f,f,f,h,f,f,f,f),f,f),B.j,f,f,f,f,f,f,B.pp,f,f,f,400))}m=A.E(A.b([new A.XF(48,B.y,f),B.v5,A.I(m,B.i,f,B.E,B.h,B.m)],l),B.i,f,B.E,B.h,0,f)}l=g.e
-k=$.D
-h=J.Y(k)
-if(l){l=h.i(k,"FileUploadFailed")
-l=A.l(l==null?"\ud30c\uc77c \uc5c5\ub85c\ub4dc\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4":l)}else{l=h.i(k,"DoNotCloseTheWindowUntilTheUploadIsComplete")
-l=A.l(l==null?"\uc5c5\ub85c\ub4dc\uac00 \uc644\ub8cc\ub420 \ub54c\uae4c\uc9c0 \ucc3d\uc744 \ub2eb\uc9c0 \ub9c8\uc2ed\uc2dc\uc624.":l)}k=$.G().dy
-k===$&&A.a()
+l.push(A.y(f,A.aa(A.n(j+" ("+i+")",f,f,2,B.Q,f,f,f,h,f,f,f,f),f,f),B.j,f,f,f,f,f,f,B.pp,f,f,f,400))}l=A.E(A.b([new A.XF(48,B.y,f),B.v5,A.I(l,B.i,f,B.E,B.h,B.m)],k),B.i,f,B.E,B.h,0,f)}k=g.e
+j=$.D
+h=J.Y(j)
+if(k){k=h.i(j,"FileUploadFailed")
+k=A.l(k==null?"\ud30c\uc77c \uc5c5\ub85c\ub4dc\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4":k)}else{k=h.i(j,"DoNotCloseTheWindowUntilTheUploadIsComplete")
+k=A.l(k==null?"\uc5c5\ub85c\ub4dc\uac00 \uc644\ub8cc\ub420 \ub54c\uae4c\uc9c0 \ucc3d\uc744 \ub2eb\uc9c0 \ub9c8\uc2ed\uc2dc\uc624.":k)}j=$.G().dy
+j===$&&A.a()
 h=t.p
-h=A.b([m,A.E(A.b([B.UQ,B.aH,A.n(l,f,f,f,f,f,f,f,k.a1(B.aG),f,f,f,f)],h),B.i,f,B.E,B.h,0,f)],h)
-if(g.e){m=J.c($.b1,"close")
-if(m==null)m="\ub2eb\uae30"
-h.push(A.awS(new A.ceN(g),m,72))}return A.hQ(A.cf(40,A.y(f,A.I(h,B.i,f,B.ed,B.h,B.m),B.j,f,f,new A.Z(B.l,f,f,n,o,f,f,B.p),f,160,f,f,f,f,f,600),f,f,(d.a.a-600+84)/2,f,f,f),!1,!1,!1,B.I,c)}}
+h=A.b([l,A.E(A.b([B.UQ,B.aH,A.n(k,f,f,f,f,f,f,f,j.a1(B.aG),f,f,f,f)],h),B.i,f,B.E,B.h,0,f)],h)
+if(g.e){l=J.c($.b1,"close")
+if(l==null)l="\ub2eb\uae30"
+h.push(A.awS(new A.ceN(g),l,72))}return A.hQ(A.cf(40,A.y(f,A.I(h,B.i,f,B.ed,B.h,B.m),B.j,f,f,new A.Z(B.l,f,f,m,n,f,f,B.p),f,160,f,f,f,f,f,600),f,f,(d.a.a-600+84)/2,f,f,f),!1,!1,!1,B.I,c)}}
 A.ceP.prototype={
 $0(){var s=this.a
 s.e=!1
@@ -142262,7 +142263,7 @@ m=A.b([n,k.XV(A.bd(B.y,B.x,1),A.ai(6.6),m,48,new A.d3O(k),140)],q)
 if(k.r>1025){n=B.c.gac($.aDM)
 l=$.G().db
 l===$&&A.a()
-m.push(A.I(A.b([A.n("Ver. "+n+",2026071401",j,j,j,j,j,j,j,l,j,j,j,j),A.n($.dQ8(),j,j,j,j,j,j,j,l,j,j,j,j)],q),B.u,j,B.E,B.h,B.m))}p.push(new A.w(o,48,A.E(m,B.i,j,B.C,B.h,0,j),j))
+m.push(A.I(A.b([A.n("Ver. "+n+",2026081401",j,j,j,j,j,j,j,l,j,j,j,j),A.n($.dQ8(),j,j,j,j,j,j,j,l,j,j,j,j)],q),B.u,j,B.E,B.h,B.m))}p.push(new A.w(o,48,A.E(m,B.i,j,B.C,B.h,0,j),j))
 return A.y(j,new A.C(B.b1t,A.E(p,B.i,j,B.C,B.h,0,j),j),B.j,j,j,new A.Z(B.l,j,j,j,r,j,j,B.p),j,j,j,j,j,j,j,i)},
 cxR(){var s,r,q,p=this,o=null,n=p.f,m=t.p,l=A.I(A.b([B.bQr,p.cH2(p.ay),B.bQC,p.b5J(p.ch,"right")],m),B.i,o,B.k,B.h,B.m),k=A.ai(40)
 k=A.aa(A.y(o,o,B.j,o,o,new A.Z(B.PY.ag(0.6),o,o,k,o,o,o,B.p),o,480,o,o,o,o,o,1800),o,o)
@@ -366783,7 +366784,7 @@ $.dIT=null
 $.dIS=null
 $.bnL=A.x(t.N,t.hS)
 $.e2n=null
-$.aDM=A.b(["0.9.53","0.9.52","0.9.51","0.9.50","0.9.49","0.9.48","0.9.47","0.9.46","0.9.45","0.9.44","0.9.43","0.9.42","0.9.41","0.9.40","0.9.39","0.9.38","0.9.37","0.9.36","0.9.35","0.9.34","0.9.33","0.9.32","0.9.31","0.9.30"],t.s)
+$.aDM=A.b(["0.9.54","0.9.53","0.9.52","0.9.51","0.9.50","0.9.49","0.9.48","0.9.47","0.9.46","0.9.45","0.9.44","0.9.43","0.9.42","0.9.41","0.9.40","0.9.39","0.9.38","0.9.37","0.9.36","0.9.35","0.9.34","0.9.33","0.9.32","0.9.31","0.9.30"],t.s)
 $.e2H=null
 $.kC=null
 $.vF=null
