@@ -81,16 +81,6 @@
     document.addEventListener('mouseup', handleMouseNavigation, true);
     document.addEventListener('click', handleMouseNavigation, true);
     document.addEventListener('auxclick', handleMouseNavigation, true); // 보조 버튼 클릭용 이벤트
-
-    // 브라우저 뒤로가기 기능 차단
-    window.addEventListener('popstate', function (e) {
-      e.preventDefault();
-      history.pushState(null, document.title, window.location.href);
-      return false;
-    }, true);
-
-    // 초기 history 상태 추가 (뒤로가기 차단 효과 강화)
-    history.pushState(null, document.title, window.location.href);
   </script>
 
 </body>
